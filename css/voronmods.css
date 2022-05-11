@@ -1,0 +1,80 @@
+body {
+    display: flex;
+    flex-wrap: nowrap;
+    height: 100vh;
+    height: -webkit-fill-available;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+
+body > * {
+    flex-shrink: 0;
+    min-height: -webkit-fill-available;
+}
+
+#btnSidebar {
+    position: absolute;
+    top: 0px;
+    left: 10px;
+}
+
+#btnSidebar i {
+    color: #cc000e;
+    font-size: 2rem;
+}
+
+#sidebar {
+    width: 200px;
+}
+
+.btn-close {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+}
+
+#main {
+    height: 100vh;
+    overflow-y: scroll;
+    background-color: #2c2f33;
+    color: #e6e1e8;
+}
+
+#main .lead {
+    color: #cc000e;
+    font-style: italic;
+}
+
+.btnTag {
+    font-weight: bold;
+}
+
+#listMods li {
+    background-color: #212529 !important;
+    color: #6c757d;
+}
+
+#listMods .list-group-item {
+    border: 1px solid rgba(255, 255, 255, 0.13);
+}
+
+#listMods li small {
+    font-weight: normal;
+}
+
+.thumbnail {
+    width: 48px;
+    height: 48px;
+}
+
+a:link,
+a:hover,
+a:visited,
+a:active {
+    color: #e6e1e8;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #cc000e;
+}

@@ -1,0 +1,4878 @@
+[
+    {
+        "creator": "",
+        "title": "120decibell",
+        "dir": "printer_mods\/",
+        "md5": "381275433c99fdeca8250e3997f01625",
+        "descr": "Side entry exhaust housing",
+        "tags": {
+            "v0": 1,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 2
+        }
+    },
+    {
+        "creator": "Huvud Chain Mount",
+        "title": "Huvud rear mount for Clockwork or LGX that supports a cable chain.",
+        "dir": "printer_mods\/",
+        "md5": "381275433c99fdeca8250e3997f01625",
+        "descr": ":x:",
+        "tags": {
+            "v0": 2,
+            "v1_8": 1,
+            "v2_4": 0,
+            "vSW": 2
+        }
+    },
+    {
+        "creator": "42bios",
+        "title": "Corner panel clip w. cable",
+        "dir": "printer_mods\/42bios\/corner_panel_clip_cable",
+        "md5": "ce7ead0f65fa790eb621e22b3ec82d47",
+        "descr": "Corner panel clip with an internal cable path.",
+        "tags": {
+            "v0": 0,
+            "v1_8": 1,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "42bios",
+        "title": "Exhaust filter housing - side thread",
+        "dir": "printer_mods\/42bios\/exhaust_filter_housing_side",
+        "md5": "2cad1ef7278b4595a7ffb541ae11fa1f",
+        "descr": "Exhaust filter housing with the G1-8 \"thread on the side.",
+        "tags": {
+            "v0": 0,
+            "v1_8": 1,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "42bios",
+        "title": "LED mount",
+        "dir": "printer_mods\/42bios\/LED_mount",
+        "md5": "ec644925144c58d83b652d714e973350",
+        "descr": "AngryLED - LED-mount for Lumentech LT3 profiles.",
+        "tags": {
+            "v0": 0,
+            "v1_8": 1,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "42bios",
+        "title": "relay mount",
+        "dir": "printer_mods\/42bios\/relay_mount",
+        "md5": "d39e4a8b9702b92d1a30f95474f3868a",
+        "descr": "relay-mount for 2x 2 channel relay modules.",
+        "tags": {
+            "v0": 0,
+            "v1_8": 1,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "aeresov",
+        "title": "TL filament sensor bracket",
+        "dir": "printer_mods\/aeresov\/TL_filament_sensor_bracket",
+        "md5": "ce14c76b6c0ae8429ef5f32ca429f6a2",
+        "descr": "A bracket for TL filament sensor to mount near stock spool holder.",
+        "tags": {
+            "v0": 0,
+            "v1_8": 1,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "aeresov",
+        "title": "MeanWell UHP-xxx DIN mount",
+        "dir": "printer_mods\/aeresov\/MeanWell_UHP_DIN_mount",
+        "md5": "8ea786ed2621a854b4814ae1649cf950",
+        "descr": "A bracket for MeanWell UHP series PSU (200, 350 and 500) to mount it across 2 DIN rails.",
+        "tags": {
+            "v0": 0,
+            "v1_8": 1,
+            "v2_4": 2,
+            "vSW": 1
+        }
+    },
+    {
+        "creator": "aeresov",
+        "title": "Raspberry Pi DIN mount",
+        "dir": "printer_mods\/aeresov\/Raspberry_Pi_DIN_mount",
+        "md5": "61f55ffba72ffa9eb0fc9aec49c40c19",
+        "descr": "A bracket for Raspberry Pi 3\/4 to mount it onto DIN rail, along or across.",
+        "tags": {
+            "v0": 0,
+            "v1_8": 1,
+            "v2_4": 2,
+            "vSW": 1
+        }
+    },
+    {
+        "creator": "aeresov",
+        "title": "SKR 1.3\/1.4 DIN mount",
+        "dir": "printer_mods\/aeresov\/SKR_DIN_mount",
+        "md5": "9a8b536b46f9118214eda2e7eaa0ae45",
+        "descr": "A bracket for SKR 1.3\/1.4 board to mount it onto DIN rail, along or across.",
+        "tags": {
+            "v0": 0,
+            "v1_8": 1,
+            "v2_4": 2,
+            "vSW": 1
+        }
+    },
+    {
+        "creator": "aeresov",
+        "title": "cable tie DIN mount",
+        "dir": "printer_mods\/aeresov\/cable_tie_DIN_mount",
+        "md5": "114e32de580ff1b1ed4290d0d717d75d",
+        "descr": "A bracket for cable ties to route cables across DIN rails.",
+        "tags": {
+            "v0": 0,
+            "v1_8": 1,
+            "v2_4": 2,
+            "vSW": 1
+        }
+    },
+    {
+        "creator": "alanho",
+        "title": "BTT PITFT50 v2 Mount",
+        "dir": "printer_mods\/alanho\/BTT_PITFT50_v2_Mount",
+        "md5": "90361412ad733ae3abf29486c29d6e5c",
+        "descr": "A mount for the BTT PITFT50 v2 Touch Display",
+        "tags": {
+            "v0": 0,
+            "v1_8": 1,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "albert",
+        "title": "IKEA Dioder Led Mount",
+        "dir": "printer_mods\/albert\/IKEA_Dioder_Led_Mount",
+        "md5": "5958bf7631c9826098a1a88f817cf062",
+        "descr": "A mount for the IKEA Dioder LED strip",
+        "tags": {
+            "v0": 1,
+            "v1_8": 1,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "al3ph",
+        "title": "LED Mount",
+        "dir": "printer_mods\/al3ph\/led_mount",
+        "md5": "f499e4d101dfd1b839c3deb8441a36cd",
+        "descr": "A mount for 10mm LED WS2812 strips",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "al3ph",
+        "title": "Analog Timer Mount",
+        "dir": "printer_mods\/al3ph\/analog_timer_mount",
+        "md5": "f0ad52f4469bc70f7c18d231dbeea783",
+        "descr": "A skirt mount for analog timer",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "al3ph",
+        "title": "Filament Runout Sensor",
+        "dir": "printer_mods\/al3ph\/filament_runout",
+        "md5": "652393198f21ef397d4ea3877a144757",
+        "descr": "A simple filament runout sensor",
+        "tags": {
+            "v0": 2,
+            "v1_8": 2,
+            "v2_4": 2,
+            "vSW": 2
+        }
+    },
+    {
+        "creator": "al3ph",
+        "title": "PL05 Sensor Mount",
+        "dir": "printer_mods\/al3ph\/pl05_mount",
+        "md5": "8b93db0ba572cb5279ec8c786e33157e",
+        "descr": "A mount PL05 inductive sensor",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Andre",
+        "title": "Mini Afterburner Strain Relief",
+        "dir": "printer_mods\/Andre\/Mini_Afterburner_Strain_Relief",
+        "md5": "3aac77d5583f4454136f277705e1da7e",
+        "descr": "A replacement strain relief for the Mini Afterburner toolhead",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Andre",
+        "title": "V0 Neopixel Front Bed Mount",
+        "dir": "printer_mods\/Andre\/V0_Neopixel_Front_Bed_Mount",
+        "md5": "1a6a9c2e06027c30d0735372b93644f0",
+        "descr": "A replacement Front Bed Mount with room for a neopixel or dotstar behind the logo",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Andre",
+        "title": "Mini Afterburner ADXL345 Mount",
+        "dir": "printer_mods\/Andre\/Mini_Afterburner_ADXL345_Mount",
+        "md5": "156c615ca7aee6ff8f3c6f50dbf51c36",
+        "descr": "Mount for an AXDL345 on the Mini Afterburner",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "arkeet",
+        "title": "Dial test indicator mount",
+        "dir": "printer_mods\/arkeet\/dti-mount",
+        "md5": "7ffdf4b7c34f4a1a49cd9da4fcbade97",
+        "descr": "A toolhead mount for a dial test indicator, where the tip is located at the nozzle.",
+        "tags": {
+            "v0": 0,
+            "v1_8": 2,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "arkeet",
+        "title": "Magnetic hotend fan cover",
+        "dir": "printer_mods\/arkeet\/magnet-fan-cover",
+        "md5": "63a3a56b38c7ea730dc8789b3758fe49",
+        "descr": "A replacement hotend fan cover, held with magnets instead of screws.",
+        "tags": {
+            "v0": 0,
+            "v1_8": 2,
+            "v2_4": 2,
+            "vSW": 2
+        }
+    },
+    {
+        "creator": "arkeet",
+        "title": "MGN12 X-axis",
+        "dir": "printer_mods\/arkeet\/mgn12\/",
+        "md5": "22d942653074cf63195776d6f331706b",
+        "descr": "Replaces the dual MGN9H rails with a single MGN12H.",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "arkeet",
+        "title": "V0 DC inlet",
+        "dir": "printer_mods\/arkeet\/v0-dc-inlet\/",
+        "md5": "0c51862263393342d56e35d4e5bd2987",
+        "descr": "Skirt inlet for external 24V DC power supply.",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Badnoob",
+        "title": "Precision AB Drive",
+        "dir": "printer_mods\/Badnoob\/Precision_AB_Drive",
+        "md5": "2810e4672273e18a32a18c1533bd51bc",
+        "descr": "Changes the gearing for the AB drives to improve both resolution and torque, with a strenthened frame.",
+        "tags": {
+            "v0": 1,
+            "v1_8": 1,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Badnoob",
+        "title": "AB-BN Afterburner mod",
+        "dir": "printer_mods\/Badnoob\/AB-BN",
+        "md5": "383752dac3eae7e2af305d6e8793235e",
+        "descr": "Improved Afterburner with 5015 fan",
+        "tags": {
+            "v0": 0,
+            "v1_8": 2,
+            "v2_4": 2,
+            "vSW": 1
+        }
+    },
+    {
+        "creator": "Badnoob",
+        "title": "Rail Alignment",
+        "dir": "printer_mods\/Badnoob\/Rail_Alignment",
+        "md5": "7ead31a9ab9a6f168dde2858bb4c0925",
+        "descr": "Tools and procedure to properly align the rails in 2.4 and Afterburner",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Baltojikale",
+        "title": "LoudOwl aka Stabby",
+        "dir": "printer_mods\/Baltojikale\/LoudOwl_aka_Stabby",
+        "md5": "3cf7a791ae63982c97d360e02f212b4c",
+        "descr": "Alternative dual 5015 part cooling fan toolhead for Afterburner",
+        "tags": {
+            "v0": 0,
+            "v1_8": 2,
+            "v2_4": 2,
+            "vSW": 2
+        }
+    },
+    {
+        "creator": "BladeScraper-Designs",
+        "title": "Microswitch Pod With Connector",
+        "dir": "printer_mods\/BladeScraper-Designs\/Microswitch_Pod_With_Conector",
+        "md5": "37e94f7fd38c31a7c9314916e154914e",
+        "descr": "Microswitch pod with JST-XH 4-pin connector",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "BladeScraper-Designs",
+        "title": "Horizontal Spool Holder",
+        "dir": "printer_mods\/BladeScraper-Designs\/Horizontal-Spool-Holder",
+        "md5": "5b4cc20f875d6b943aaec0d6df4e1015",
+        "descr": "Based on the stock holder but mounts to the horizontal extrusions.",
+        "tags": {
+            "v0": 0,
+            "v1_8": 1,
+            "v2_4": 2,
+            "vSW": 1
+        }
+    },
+    {
+        "creator": "BlueBear",
+        "title": "Deck Panel Backpack",
+        "dir": "printer_mods\/BlueBear\/Deck_Panel_Backpack",
+        "md5": "17f68020fa0a402c7b0e9e8ddaad664e",
+        "descr": "A mounting alternative if you don't want to drill your deck panel",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "BlueBear",
+        "title": "Clippable Wago 221 Mounts",
+        "dir": "printer_mods\/BlueBear\/Wago_221_mount",
+        "md5": "4b521e1ec44757c1f1841b189bad82dd",
+        "descr": "Mounts for Wago 221 to screw or clip-in on 1515 extrusions",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 1
+        }
+    },
+    {
+        "creator": "BlueBear",
+        "title": "Ziptie Mount",
+        "dir": "printer_mods\/BlueBear\/Ziptie_Mount",
+        "md5": "7664a0a412207b2828d027a83898dbc9",
+        "descr": "Clippable Ziptie hooks for 1515 extrusions",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 1
+        }
+    },
+    {
+        "creator": "BlueBear",
+        "title": "bobbleheed",
+        "dir": "printer_mods\/",
+        "md5": "381275433c99fdeca8250e3997f01625",
+        "descr": "Magnetic Panels",
+        "tags": {
+            "v0": 1,
+            "v1_8": 0,
+            "v2_4": 1,
+            "vSW": 2
+        }
+    },
+    {
+        "creator": "BlueBear",
+        "title": "",
+        "dir": "printer_mods\/",
+        "md5": "381275433c99fdeca8250e3997f01625",
+        "descr": "Filament Runout Sensor",
+        "tags": {
+            "v0": 1,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 2
+        }
+    },
+    {
+        "creator": "btp",
+        "title": "Galileo chain mount (befenybay)",
+        "dir": "printer_mods\/btp\/Galileo_Switchwire_Chain_Mount\/README.md",
+        "md5": "12e68c78701032601d07ef19d757913c",
+        "descr": "Modified chain mount position to cater for difference with Galileo Clockwork",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 2
+        }
+    },
+    {
+        "creator": "buzzdalf",
+        "title": "v1.8\/2.4 Afterburner connector cover for 42STH20-1004AS",
+        "dir": "printer_mods\/buzzdalf\/connector_cover",
+        "md5": "f7c33ab0e4c248a517f3fb08babc0a29",
+        "descr": "v1.8\/2.4 Connector cover for 42STH20-1004AS",
+        "tags": {
+            "v0": 0,
+            "v1_8": 2,
+            "v2_4": 2,
+            "vSW": 1
+        }
+    },
+    {
+        "creator": "buzzdalf",
+        "title": "Ender 3 Switchwire Taller Z Mod",
+        "dir": "printer_mods\/buzzdalf\/ender_switchwire_taller_z",
+        "md5": "426dfebaa8774a70967a636c4e8bc9e4",
+        "descr": "Taller Z Mod",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 2
+        }
+    },
+    {
+        "creator": "buzzdalf",
+        "title": "Ender 3 Switchwire Y Tensioner Mod",
+        "dir": "printer_mods\/buzzdalf\/ytension",
+        "md5": "f1b1aa09e82e74b20c6f08854ec628c9",
+        "descr": "Y Tension Mod",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 2
+        }
+    },
+    {
+        "creator": "ByteChild",
+        "title": "ESP32 DIN Rail Bracket",
+        "dir": "printer_mods\/ByteChild\/ESP32_DIN_Rail_Bracket",
+        "md5": "6ebb4262d3924c899314d2af6cb19ca3",
+        "descr": "DIN rail mounting bracket for an ESP32",
+        "tags": {
+            "v0": 0,
+            "v1_8": 1,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "ByteChild",
+        "title": "2-Channel Relay DIN Rail Bracket",
+        "dir": "printer_mods\/ByteChild\/2_Channel_Relay_DIN_Rail_Bracket",
+        "md5": "f0a11588dbcb0499e26563323a3b504c",
+        "descr": "DIN Rail mounting bracket for an 2-Channel-Relay",
+        "tags": {
+            "v0": 0,
+            "v1_8": 1,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Ch4rlesB",
+        "title": "V0 Handles Slim",
+        "dir": "printer_mods\/Ch4rlesB\/V0_Handles_Slim",
+        "md5": "d62d4ce11ddd813fc53ee80aa372a3ed",
+        "descr": "Simple and slim handles for the V0",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "chrisrgonzales",
+        "title": "270\u00c2\u00b0 Front Panel Hinge",
+        "dir": "printer_mods\/chrisrgonzales\/270_degree_hinge",
+        "md5": "0f84777eae057b33fd10c13e4b32e67e",
+        "descr": "Hinges that have 270\u00c2\u00b0 of swivel, parametric CAD included",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "christophmueller",
+        "title": "Phaetus and Zodiac Dragonfly BMO Afterburner toolheads",
+        "dir": "printer_mods\/christophmueller\/Phaetus_Dragonfly_BMO_Afterburner",
+        "md5": "f633690fedb477c632f8b9be105f04d2",
+        "descr": "Covers both the original Phaetus variant as well as the Zodiac one.",
+        "tags": {
+            "v0": 0,
+            "v1_8": 2,
+            "v2_4": 2,
+            "vSW": 2
+        }
+    },
+    {
+        "creator": "claytono",
+        "title": "Fysetc S6 V2 Mount",
+        "dir": "printer_mods\/claytono\/fysetc-s6-v2-mount",
+        "md5": "731ef562a17bad761beb2cac2b711c55",
+        "descr": "DIN Mount for the Fysetc S6 V2 controller",
+        "tags": {
+            "v0": 0,
+            "v1_8": 2,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "claytono",
+        "title": "Voron 2.4 Extrusion Jig",
+        "dir": "printer_mods\/claytono\/2.4-extrusion-jig",
+        "md5": "7231ce47894ac6e4f2fe4f42e90d921b",
+        "descr": "A jig help align extrusions to get a properly square frame",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "claytono",
+        "title": "V0 Zip Tie Skirts",
+        "dir": "printer_mods\/claytono\/v0-zip-tie-skirts",
+        "md5": "9e91fbd1349fc9e65e855c5bee2ebbd6",
+        "descr": "V0 skirts with small loops added along the top to allow zip tyiing cables to them",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Conqueror433",
+        "title": "Voron Parts Logo",
+        "dir": "printer_mods\/conqueror433\/Voron_Parts_Logo",
+        "md5": "3f52ce3242cb3848ed02377a738de0eb",
+        "descr": "Voron Parts Logo for your back panels, 3D Print or Laser Cut",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Conqueror433",
+        "title": "Voron V0.1 Parts Logo",
+        "dir": "printer_mods\/conqueror433\/Voron_V0.1_Parts_Logo",
+        "md5": "8847ae17eb0e88a8bf02b0ef3ca75c28",
+        "descr": "Voron Parts Logo for your V0 deck panel",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "consibonsi",
+        "title": "Y-Mod SW 9mm",
+        "dir": "printer_mods\/consibonsi\/Y-Mod_SW_9mm",
+        "md5": "4c514d77ea091a6f0cb731a54b309faa",
+        "descr": "9mm Y belt mod for SW",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 2
+        }
+    },
+    {
+        "creator": "csch0",
+        "title": "SW Fan Mount No Tape",
+        "dir": "printer_mods\/csch0\/SW_FanMount_No_Tape",
+        "md5": "ed008fe96166c6c60cee99c444e52bef",
+        "descr": "60x20 Fan Mount for SW without tape",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 2
+        }
+    },
+    {
+        "creator": "d3nny",
+        "title": "Filtered Power Plug with RND_165-00057",
+        "dir": "printer_mods\/d3nny\/mains_plug_panel_for_RND_165-00057",
+        "md5": "fa11cee22ae489ce5dec3cefc4b9e030",
+        "descr": "Filtered Power Plug for RND 165-00057 and CAT6-Plug",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "DaGlo",
+        "title": "V0.1 Duet 2 Wifi mounting brackets",
+        "dir": "printer_mods\/DaGlo\/Voron_V0_Duet_2_WiFi_Mounting_Brackets\/",
+        "md5": "0ec09271b956b58855bd1f47d8b07230",
+        "descr": "Voron 0.1 Mounting brackets with\/without RPi 4",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "DaGlo",
+        "title": "Voron V0 Mean Well power supply bracket (Funssor Kit)",
+        "dir": "printer_mods\/DaGlo\/Voron_V0_MW_PS_Bracket\/",
+        "md5": "0a33f78f84ffdaa65d860b223e4dbb07",
+        "descr": "Voron V0 Mean Well power supply bracket (Funssor Kit)",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "DaGlo",
+        "title": "Voron V0 SSR Mount",
+        "dir": "printer_mods\/DaGlo\/Voron_V0_SSR_Mount\/",
+        "md5": "7ba6c23c22df3e313111c9aa2a62c75c",
+        "descr": "Voron V0 SSR Mount for the bottom",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "DaGrooch13",
+        "title": "Tophat Exhaust Filter V0",
+        "dir": "printer_mods\/DaGrooch13\/Tophat_Exhaust_Filter",
+        "md5": "f1dcccf41667bb3119e20426d4133856",
+        "descr": "Activated charcoal exhaust filter with HEPA that replaces the rear tophat panel",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Dan88",
+        "title": "V0 one-part Skirts",
+        "dir": "printer_mods\/Dan88\/V0skirt",
+        "md5": "b0f7150ec0a2b977a055838e977029bf",
+        "descr": "One part Skirts for the V0",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "DC67",
+        "title": "Plug Panel Mod for Schaffner FN286-10-06",
+        "dir": "printer_mods\/DC67\/plug_panel_schaffner",
+        "md5": "50f7229ec113cc50baa39dfdb22c6f7f",
+        "descr": "A modified plug panel for the Power Entry Connector Schaffner FN286-10-06 with two integreated Keystone sockets.",
+        "tags": {
+            "v0": 0,
+            "v1_8": 1,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "deepfriedheroin",
+        "title": "V2 Bed Wagos",
+        "dir": "printer_mods\/deepfriedheroin\/v2_bed_wagos",
+        "md5": "092de42b2e80936875c41fd1717cee2e",
+        "descr": "Wire management for the v2 bed",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "deepfriedheroin",
+        "title": "v0 Wago Bed Mounts",
+        "dir": "printer_mods\/deepfriedheroin\/v0_bed_wagos",
+        "md5": "15639c2c10c519dcb66e498a0b8b242c",
+        "descr": "Easy to install Wago mounts for the v0",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "deepfriedheroin",
+        "title": "v0 Power Wagos",
+        "dir": "printer_mods\/deepfriedheroin\/v0_power_wagos",
+        "md5": "11f49aac2479a78c079d67d51e2f4e1e",
+        "descr": "Easy to install Wago mounts for v0 mains",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Derpimus",
+        "title": "V0.1 Block Handle",
+        "dir": "printer_mods\/Derpimus\/Block_handle_v0.1",
+        "md5": "5b17916f81c924171c95e3dc7cbe4807",
+        "descr": "V0.1 Block Style Handle",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "DorjeDorf",
+        "title": "Duet 3 6HC Din Bracket",
+        "dir": "printer_mods\/DorjeDorf\/Duet_3_6HC_Din_Bracket",
+        "md5": "5bd653a9a45d3d99e0a44ef7a64b308a",
+        "descr": "V2.4 Duet 3 6HC Din Bracket",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "DorjeDorf",
+        "title": "Duet 3 3HC Din Bracket",
+        "dir": "printer_mods\/DorjeDorf\/Duet_3_3HC_Din_Bracket",
+        "md5": "e80f89c823b12999bff73c3eec20b779",
+        "descr": "V2.4 Duet 3 3HC Din Bracket",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "DoubleT",
+        "title": "Afterburner Triple Bowden",
+        "dir": "printer_mods\/DoubleT\/afterburner_triple_bowden",
+        "md5": "f25a6958c43c0bb2c93638249b10e4e6",
+        "descr": "AfterBurner Triple Bowden",
+        "tags": {
+            "v0": 0,
+            "v1_8": 2,
+            "v2_4": 2,
+            "vSW": 2
+        }
+    },
+    {
+        "creator": "DoubleT",
+        "title": "Spider Mount Extrusion",
+        "dir": "printer_mods\/DoubleT\/fysetc_spider_mount_extrusion",
+        "md5": "7cb2427d5b8e1b30ee1351f8ad711c67",
+        "descr": "Spider Mount for 2020\/3030 extrusions",
+        "tags": {
+            "v0": 0,
+            "v1_8": 2,
+            "v2_4": 2,
+            "vSW": 2
+        }
+    },
+    {
+        "creator": "DoubleT",
+        "title": "TFT Display skirt for Switchwire",
+        "dir": "printer_mods\/DoubleT\/switchwire_tft_display",
+        "md5": "129ee0831c85d593f593bdb3bc5cf3f2",
+        "descr": "TFT Display skirt for Switchwire",
+        "tags": {
+            "v0": 0,
+            "v1_8": 2,
+            "v2_4": 2,
+            "vSW": 2
+        }
+    },
+    {
+        "creator": "DoubleT",
+        "title": "Input Shaper mount for Afterburner",
+        "dir": "printer_mods\/DoubleT\/input_shaper_mount",
+        "md5": "449ae34bea9a2f98ca9eb7818c2021a5",
+        "descr": "Input shaper mount for Afterburner",
+        "tags": {
+            "v0": 0,
+            "v1_8": 2,
+            "v2_4": 2,
+            "vSW": 2
+        }
+    },
+    {
+        "creator": "doubletrouble",
+        "title": "V0 Skirt Mod",
+        "dir": "printer_mods\/doubletrouble\/V0_Skirt_Mod",
+        "md5": "8e31be0e6a384c5d1c61bda1d07a607f",
+        "descr": "V0 Skirt Mod",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "DrGhetto",
+        "title": "Ghetto Panels",
+        "dir": "printer_mods\/DrGhetto\/GhettoPanels",
+        "md5": "01f0f5b13297d930d0c3d737e2e7e245",
+        "descr": "Printed panels for the Voron Zero",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "eddie",
+        "title": "V1.8 12mm Z Mod",
+        "dir": "printer_mods\/eddie\/V1.8_12mm_Z_Mod",
+        "md5": "e3b29dda417c1a823112db16efa588f9",
+        "descr": "Add V1.8 option for 12mm Z rods",
+        "tags": {
+            "v0": 0,
+            "v1_8": 2,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "eddie",
+        "title": "",
+        "dir": "printer_mods\/",
+        "md5": "381275433c99fdeca8250e3997f01625",
+        "descr": "LED Bar Clip",
+        "tags": {
+            "v0": 1,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 2
+        }
+    },
+    {
+        "creator": "edwardyeeks",
+        "title": "Decontaminator Purge Bucket & Nozzle Scrubber",
+        "dir": "printer_mods\/edwardyeeks\/Decontaminator_Purge_Bucket_&_Nozzle_Scrubber",
+        "md5": "d38fc3c0e2e27101f6ef8abca93e54b3",
+        "descr": "Removeable purge bucket with nozzle scrubber",
+        "tags": {
+            "v0": 0,
+            "v1_8": 2,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "edwardyeeks",
+        "title": "V2.4 Z Drive Motor Tensioner Mod",
+        "dir": "printer_mods\/edwardyeeks\/V2.4_z_drive_motor_tensioner_mod",
+        "md5": "7ad0a92c538d14cc43954e6d8d4580b0",
+        "descr": "Braced motor tensioner for z drive",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Ellis",
+        "title": "15x15 Drag Chain Ends",
+        "dir": "printer_mods\/Ellis\/15x15_Drag_Chain_End",
+        "md5": "327a69028d08e46bf9385d0eb53f2121",
+        "descr": "15x15 drag chain end pieces",
+        "tags": {
+            "v0": 1,
+            "v1_8": 1,
+            "v2_4": 2,
+            "vSW": 1
+        }
+    },
+    {
+        "creator": "Ellis",
+        "title": "Badge Retractor Mount",
+        "dir": "printer_mods\/Ellis\/Badge_Retractor_Mount",
+        "md5": "54248e6275395cf5207b3594dcb372a0",
+        "descr": "Extrusion mount for badge retractor to keep bowden tube out of the way.",
+        "tags": {
+            "v0": 1,
+            "v1_8": 1,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Ellis",
+        "title": "Bed Fans",
+        "dir": "printer_mods\/Ellis\/Bed_Fans",
+        "md5": "7a0b9be1f04795921fa55fd3bb840784",
+        "descr": "Bed fan control macros and 5015 bed fan mounts",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Ellis",
+        "title": "Short Z Joints",
+        "dir": "printer_mods\/Ellis\/Short_Z_Joints",
+        "md5": "3d58829f9043c97ce303c294548bc210",
+        "descr": "Shorter Z joints for the v2.4",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Ellis",
+        "title": "Single MGN9H Carriage",
+        "dir": "printer_mods\/Ellis\/Single_MGN9H_Carriage",
+        "md5": "d0b95613854ddcd295dd74c24a43b558",
+        "descr": "Single MGN9H toolhead carriage with umbilical (x endstop) support",
+        "tags": {
+            "v0": 0,
+            "v1_8": 1,
+            "v2_4": 2,
+            "vSW": 1
+        }
+    },
+    {
+        "creator": "ElPoPo",
+        "title": "Removable Doors",
+        "dir": "printer_mods\/ElPoPo\/RemovableDoors",
+        "md5": "60c938c1b6a636b6f3998ece9f241e38",
+        "descr": "New hinge to easily remove the door and have a wide opening  V2.x",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Empusas",
+        "title": "Power Skirt 2.x FN284-10-06",
+        "dir": "printer_mods\/Empusas\/PowerSkirt_FN284-10-06",
+        "md5": "aa508349cd792a4fd1953b6781494c27",
+        "descr": "Power Skirt for Schaffner FN284-10-06 V2.x",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Empusas",
+        "title": "Mounts for Terminal Blocks NC933 SPL-62",
+        "dir": "printer_mods\/Empusas\/Terminal_Blocks_NC933_SPL-62",
+        "md5": "6c74829fb36c723f341a7263cae6ee6a",
+        "descr": "Mounts for Terminal Blocks NC933 and SPL-62 from AliExpress",
+        "tags": {
+            "v0": 1,
+            "v1_8": 1,
+            "v2_4": 2,
+            "vSW": 1
+        }
+    },
+    {
+        "creator": "Empusas",
+        "title": "Mounts for BTT Filament Motion Sensor",
+        "dir": "printer_mods\/Empusas\/BTT_Filament_Motion_Sensor_Mount",
+        "md5": "4743930616b20b0a7ad2e22f696347f2",
+        "descr": "Mounts for Big Tree Tech Smart Filament Motion Sensor",
+        "tags": {
+            "v0": 2,
+            "v1_8": 2,
+            "v2_4": 2,
+            "vSW": 2
+        }
+    },
+    {
+        "creator": "evandepol",
+        "title": "Crydom GN Terminal Guard",
+        "dir": "printer_mods\/evandepol\/Crydom-GN-Guard",
+        "md5": "24d427186d1898a8cc47818fd5963381",
+        "descr": "A simple safety guard for the terminals on a Crydom GN SSR",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "evandepol",
+        "title": "Voron 2.4 cable clamps",
+        "dir": "printer_mods\/evandepol\/Voron2.4-Cable-clamps",
+        "md5": "ff3e09572f275110eb715456c2b06128",
+        "descr": "A set of 2020-mounted cable guards to organize and dress the wiring on your build",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "falo",
+        "title": "Magnetic Exhaust Grill Cover",
+        "dir": "printer_mods\/falo\/magnetic_grill_cover",
+        "md5": "12c0308b1d791888c46c4b287c278ad1",
+        "descr": "A magnetic cover to seal the filtered exhaust",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "FreeformFez",
+        "title": "V1.8 Filtered Power Inlet",
+        "dir": "printer_mods\/FreeformFez\/FilteredPower",
+        "md5": "9d41e8a152edc607f06294ca3d5eea74",
+        "descr": "V1.6 Filtered Inlet and Rocker Switch for V1.8",
+        "tags": {
+            "v0": 0,
+            "v1_8": 2,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "geoffreyyoung",
+        "title": "FYSETC SPIDER DIN Bracket",
+        "dir": "printer_mods\/geoffreyyoung\/spider_bracket",
+        "md5": "e2d2d385a9945bc1bb3205c0cc359b34",
+        "descr": "FYSETC SPIDER DIN Bracket",
+        "tags": {
+            "v0": 0,
+            "v1_8": 2,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "geoffreyyoung",
+        "title": "Dual Rail Installation Guide",
+        "dir": "printer_mods\/geoffreyyoung\/dual_rail_guide",
+        "md5": "92e1285458298dd859fce85f87609363",
+        "descr": "Rail installation guide that also works for the 2.4 dual rail installation",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "GiulianoM",
+        "title": "Fly F407ZG Mount",
+        "dir": "printer_mods\/GiulianoM\/FlyF407ZG",
+        "md5": "fa957f92f3f49604d9fd030bc9cf3a8e",
+        "descr": "Mount for the Fly F407ZG: https:\/\/github.com\/FLYmaker\/FLYF407ZG",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Gizzle",
+        "title": "Ender 3 and Ender 3 Pro Switchwire Mod",
+        "dir": "printer_mods\/Gizzle\/ender-3_(pro)_switchwire",
+        "md5": "9d4890f857a213252ef3ace1d1eb6c87",
+        "descr": "Mod for the Ender 3 and Ender 3 Pro, which adapts the kinematics and most other parts of the Voron Switchwire.",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 2
+        }
+    },
+    {
+        "creator": "GSL12",
+        "title": "Pocketwatch Nema 17",
+        "dir": "printer_mods\/GSL12\/pocketwatch_nema17",
+        "md5": "e51dbb8170831b0e07ee6a4c2cdc430f",
+        "descr": "Extruder like Pocketwatch, but with Nema17 instead of Nema14. Maybe for V0 fork with 2020 extrusions, Nema17 and MGN9 or other printers.",
+        "tags": {
+            "v0": 1,
+            "v1_8": 1,
+            "v2_4": 1,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "hhammarstrand",
+        "title": "Afterburner connector cover for 42STH20-1004AS",
+        "dir": "printer_mods\/hhammarstrand\/afterburner_connector_cover_42STH20-1004AS",
+        "md5": "35eea1525f5b6feb327be97e3194146e",
+        "descr": "Connector cover for 42STH20-1004AS",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 2
+        }
+    },
+    {
+        "creator": "hartk1213",
+        "title": "Voron0 deck panel with logo and VORON0",
+        "dir": "printer_mods\/hartk1213\/Voron0_deck_panel_with_logo_and_VORON0",
+        "md5": "a3cc89f79ae678ea2fbbfe8e05555585",
+        "descr": "Used @Kruppes blank deck panel to add the logo as well as the name VORON0",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "hartk1213",
+        "title": "Voron0 display dualcolor",
+        "dir": "printer_mods\/hartk1213\/Voron0_display_dualcolor",
+        "md5": "392dc9358417204f85de0edb00e64173",
+        "descr": "Added a dual color file for the Voron Display Front housing",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "hartk1213",
+        "title": "Voron0 C14Inlet",
+        "dir": "printer_mods\/hartk1213\/Voron0_C14Inlet",
+        "md5": "0119f25649ede0854d5a52a9f2dfc5ba",
+        "descr": "Added a new Power inlet that uses a Fused C14 plug and switch that covers the mains contacts",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "hartk1213",
+        "title": "Voron0 Hinged Top Hat",
+        "dir": "printer_mods\/hartk1213\/Voron0_Hinged_Top_Hat",
+        "md5": "5152e02153935dfd96c2ded746876350",
+        "descr": "Created a new hinged top hat design for the V0 so it can fold away when you dont want a top hat on",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "hartk1213",
+        "title": "Voron0 ExtendedLegs",
+        "dir": "printer_mods\/hartk1213\/Voron0_ExtendedLegs",
+        "md5": "12e30084bb9b959f79003b615ab92ce0",
+        "descr": "New extended legs to raise the printer up a tiny bit more",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "hartk1213",
+        "title": "Voron0 ExtrusionSkirt",
+        "dir": "printer_mods\/hartk1213\/Voron0_ExtrusionSkirt",
+        "md5": "ffc22e2cb3798ee8a2fcd2a617ece6f1",
+        "descr": "Created a new skirt design that uses 50mm extrusions as legs and it has a c14 power inlet hole on the bottom",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "hartk1213",
+        "title": "Voron0 MGN9C X Axis",
+        "dir": "printer_mods\/hartk1213\/Voron0_MGN9C_X_Axis",
+        "md5": "71e093e1a3f6b7eb86b5166ad25e0e38",
+        "descr": "This mod, replaces the stock MGN7H for MGN9C on the V0",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "hartk1213",
+        "title": "Voron2.4 Pins Mod",
+        "dir": "printer_mods\/hartk1213\/Voron2.4_Pins_Mod",
+        "md5": "d6ebfc3e291bb5710ce40404dc2006d1",
+        "descr": "This mod replaces all the M5 screws for all idlers\/pulleys\/bearings with 5mm pins",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "hartk1213",
+        "title": "Voron2.4 Y Endstop Relocation",
+        "dir": "printer_mods\/hartk1213\/Voron2.4_Y_Endstop_Relocation",
+        "md5": "830f972eefaf048009a79f6c8525cfac",
+        "descr": "This mod relocates the Y endstop to the top A drive piece, to work with Arkeets MGN12 mod",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "henrikssn",
+        "title": "Plug Panel Mod for Generic Unfiltered Modules",
+        "dir": "printer_mods\/henrikssn\/plug_panel_generic",
+        "md5": "4fa8ee56efba7eb32549010d02ae6840",
+        "descr": "v2.4 plug panel for generic unfiltered modules with 66mm x 27mm cutout such as the Delta 06A2 and Qualtek 761-18",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "henrikssn",
+        "title": "",
+        "dir": "printer_mods\/",
+        "md5": "381275433c99fdeca8250e3997f01625",
+        "descr": "Parametric Spool Holder",
+        "tags": {
+            "v0": 1,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 2
+        }
+    },
+    {
+        "creator": "hernsl",
+        "title": "Bottom Panel Mag Clip",
+        "dir": "printer_mods\/hernsl\/bottom_panel_mag_clip",
+        "md5": "22402df9c7b1ae9a79dad0f9847a8cbf",
+        "descr": "v2.4 magnetic clips to retain bottom panel",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "hijaxpl",
+        "title": "Corner panel clip",
+        "dir": "printer_mods\/hijax_pl\/corner_panel_clip",
+        "md5": "b751c77a88101b38e92f95b6be173b31",
+        "descr": "V2 panel corner frames using 3-way L brackets in the corners",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "hijaxpl",
+        "title": "Din Rail mount",
+        "dir": "printer_mods\/hijax_pl\/din_rail_mount",
+        "md5": "379c2845058f2e02cb3b7ff1db9b78fe",
+        "descr": "Adapter to attach DIN Rail to 2020 extrusion.",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "hijaxpl",
+        "title": "Controler Board adapters",
+        "dir": "printer_mods\/hijax_pl\/ender_compatible_controller_mount",
+        "md5": "b77bca4a8ca635f175f32ff2eecb06f5",
+        "descr": "DIN (rotated) and legacy adapters for boards like SKR mini E3.",
+        "tags": {
+            "v0": 1,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "hoschi",
+        "title": "FYSETC Spider DIN Rail Mount",
+        "dir": "printer_mods\/hoschi\/FYSETC_Spider_DIN_Mount",
+        "md5": "9980cbd8ec31efbf9f08f931a1099c21",
+        "descr": "DIN rail mount for FYSETC Spider",
+        "tags": {
+            "v0": 0,
+            "v1_8": 1,
+            "v2_4": 2,
+            "vSW": 1
+        }
+    },
+    {
+        "creator": "Iakabos",
+        "title": "c920 Mount",
+        "dir": "printer_mods\/Iakabos\/C920_mount",
+        "md5": "a9fa5b6ea3004ec1a448bfe4fbab0c90",
+        "descr": "Slim mount for logitech c920 webcam",
+        "tags": {
+            "v0": 0,
+            "v1_8": 2,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Iakabos",
+        "title": "V0 beltchains",
+        "dir": "printer_mods\/Iakabos\/V0_beltchain",
+        "md5": "ad219d8e0d404c329a38808ac8ee0eac",
+        "descr": "Modified beltchain parts for V0 Z cables",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "jasonc",
+        "title": "V2.4 Z-Idler Shoulder Bolt Mod",
+        "dir": "printer_mods\/jasonc\/Z_Idler_Shoulder_Bolt",
+        "md5": "a4889b01263321fa910744674c293e39",
+        "descr": "Modification to the idler carriers to accept a 25mm shoulder bolt. Ideal for Gates idlers.",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "jeoje",
+        "title": "V2.4 Z Chain Guide with Integrated Chamber Thermistor Mount",
+        "dir": "printer_mods\/jeoje\/Z_Chain_Guide_Thermistor_Mount",
+        "md5": "1a34b871aa2121e26a78541caef7107c",
+        "descr": "Modifies the Z chain guide to hold a chamber thermistor",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "jeoje",
+        "title": "4.3\" Touchscreen Mount",
+        "dir": "printer_mods\/jeoje\/4.3_Inch_Touchscreen_Mount",
+        "md5": "9fc2fef04858b80f640795d76ace1613",
+        "descr": "Mounts a Waveshare 4.3inch Capacitive Touch Display to v2.4 and Switchwire Vorons",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 2
+        }
+    },
+    {
+        "creator": "jeoje",
+        "title": "Sturdy Handles",
+        "dir": "printer_mods\/jeoje\/Sturdy_Handles",
+        "md5": "986010939a111668e329c74c67eb99e9",
+        "descr": "Modified v2.2 handles with no panel rest and with 4 anchor points",
+        "tags": {
+            "v0": 0,
+            "v1_8": 1,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "jeoje",
+        "title": "Molex MLX and Microfit 3.0 Bed Connector Mount",
+        "dir": "printer_mods\/jeoje\/Molex_MLX_Microfit_Bed_Connector_Mount",
+        "md5": "ba69f8a63c4f9637d10f3d24218fbd9e",
+        "descr": "Solid mount your bed connectors",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "jgehrig",
+        "title": "V0 LCD Touchscreen Skirt",
+        "dir": "printer_mods\/jgehrig\/v0_lcdskirt",
+        "md5": "e877f7c5b673e12c80a76ca4ef9bddab",
+        "descr": "3.2\" LCD Touch Screen Skirt",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "JNP",
+        "title": "Back Door",
+        "dir": "printer_mods\/JNP\/Back-Door",
+        "md5": "a1df24245a9acf6eaad9051e7cdc13dc",
+        "descr": "Door for easy hardware access",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "JNP",
+        "title": "Deck Panel",
+        "dir": "printer_mods\/JNP\/Deck_Panel_Rear",
+        "md5": "0b5648c6f771a60b868fa5f2126d13ad",
+        "descr": "Covers the hotbed cables",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "JNP",
+        "title": "Drawer",
+        "dir": "printer_mods\/JNP\/Drawer",
+        "md5": "18903e9ef8b0b4f9da2d96f440f2a963",
+        "descr": "Drawer in four different versions",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "JNP",
+        "title": "Front Door",
+        "dir": "printer_mods\/JNP\/Front-Door",
+        "md5": "c15f86cc40a8c0983e151ebc0494eff7",
+        "descr": "Door in a frame",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "JNP",
+        "title": "Hepa Filter",
+        "dir": "printer_mods\/JNP\/HEPA-Filter",
+        "md5": "c54aab6aed9f975dc910dd0875f4bce6",
+        "descr": "Filter case with fan\u00c2\u00b4s",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "JNP",
+        "title": "Mid Panel",
+        "dir": "printer_mods\/JNP\/Mid-Panel",
+        "md5": "11bc87e59790691f32d2780a978fb76d",
+        "descr": "Panel for SKR1.4\/1.4 or SKR E3 mini mount",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "JNP",
+        "title": "Neopixel Case",
+        "dir": "printer_mods\/JNP\/Neopixel-Y_Rails",
+        "md5": "228e28294c5cf9c7db475cf985213e8d",
+        "descr": "mounting for Neopixel strip with 8 LED\u00c2\u00b4s",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "JNP",
+        "title": "Side Panels",
+        "dir": "printer_mods\/JNP\/Side-Panels",
+        "md5": "ca6fabdf3ecb90929fd106442028fb12",
+        "descr": "Panels with intergrated hinge",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "JNP",
+        "title": "joposter",
+        "dir": "printer_mods\/",
+        "md5": "381275433c99fdeca8250e3997f01625",
+        "descr": "V0 Clippable LED Caselight",
+        "tags": {
+            "v0": 1,
+            "v1_8": 2,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "JosAr",
+        "title": "Klicky Probe",
+        "dir": "printer_mods\/JosAr\/Klicky-Probe",
+        "md5": "9417de5520f59373fd3dcf06885398e3",
+        "descr": "Microswitch based inductive probe replacement",
+        "tags": {
+            "v0": 0,
+            "v1_8": 2,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "KenadyDwag44",
+        "title": "Switchwire Lightbar",
+        "dir": "printer_mods\/KenadyDwag44\/sw_lightbar",
+        "md5": "65e2ce98e7cbe2844da7f59b03f3b100",
+        "descr": "A LED lightbar for switchwire",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 2
+        }
+    },
+    {
+        "creator": "KevinAkaSam",
+        "title": "VEFACH",
+        "dir": "printer_mods\/KevinAkaSam\/VEFACH",
+        "md5": "fbadef52d663d5909cd51fab1d6657ff",
+        "descr": "Voron Exhaust Filter Inserts for Activated Coal + Hepa",
+        "tags": {
+            "v0": 0,
+            "v1_8": 1,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Khay",
+        "title": "V0 Micro Backplate",
+        "dir": "printer_mods\/khay\/micro_backplate",
+        "md5": "ed919793b6958a756b541672b14ace60",
+        "descr": "Minimalistic backplate for cooler motors and electronics",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "KiloQubit",
+        "title": "V0 Reverse Bowden Mount",
+        "dir": "printer_mods\/KiloQubit\/V0_reverse_bowden_mount",
+        "md5": "c68af983206e8073f14a3da80f5bf19a",
+        "descr": "V0 reverse bowden mount",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "KiloQubit",
+        "title": "V2.4 Z Chain Mounts for 3 Hole Chains",
+        "dir": "printer_mods\/KiloQubit\/VORON_2.4_Z_Chain_3_Hole_Mounts",
+        "md5": "74c7491c3b7673b1fd7f202e13514819",
+        "descr": "Z chain mounts for 3 hole generic chain",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "KiloQubit",
+        "title": "",
+        "dir": "printer_mods\/",
+        "md5": "381275433c99fdeca8250e3997f01625",
+        "descr": "Trident Schurter Inlet Skirt",
+        "tags": {
+            "v0": 1,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "kirby",
+        "title": "V0 Sherpa Mini Direct Drive Mod",
+        "dir": "printer_mods\/kirby\/v0_sherpa_mini_direct_drive",
+        "md5": "d4830074b24a0fffa9822896f437246a",
+        "descr": "A direct drive mod for the V0 using the Annex Sherpa Mini extruder",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Koios",
+        "title": "6mm Tempered Glass Mod",
+        "dir": "printer_mods\/Koios\/6mm_Glass",
+        "md5": "0f321dc41aa8b513102d498a7966848f",
+        "descr": "Lock levers and rests for 6mm Tempered glass panels",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Koios",
+        "title": "C920 Low Profile Mount",
+        "dir": "printer_mods\/Koios\/C920_Mount",
+        "md5": "3591028d2d8856fed4e6bd547046aa29",
+        "descr": "Low profile mount for a C920 Webcam",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Koios",
+        "title": "LED Bar Mounts",
+        "dir": "printer_mods\/Koios\/LED_Mounts",
+        "md5": "3fc270766deecf73bcd55fbc9bbe0ef9",
+        "descr": "Low profile mount for led bar lights",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Koios",
+        "title": "V0 C920 Tophat Mount",
+        "dir": "printer_mods\/Koios\/V0_C920_Tophat_Mount",
+        "md5": "e61fb7a743f5f16aabca28a3e4db85ec",
+        "descr": "Mounting bracket for a Logitech C920 on the tophat",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Kruppes",
+        "title": "Belt Tension Meter",
+        "dir": "printer_mods\/Kruppes\/Tension_Meter",
+        "md5": "eb9810f9b0cf1502af3b59b69f7db14f",
+        "descr": "Print in place tension meter to easily tighten multiple belts to the same tension",
+        "tags": {
+            "v0": 2,
+            "v1_8": 2,
+            "v2_4": 2,
+            "vSW": 2
+        }
+    },
+    {
+        "creator": "Kruppes",
+        "title": "Encosed Bottom",
+        "dir": "printer_mods\/Kruppes\/Closed_Bottom",
+        "md5": "4ea144e701fe80a7fdff1b166eae3401",
+        "descr": "Modified printed parts and panel to fully enclose V0.",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Kruppes",
+        "title": "V0 Printed Deck with inserts",
+        "dir": "printer_mods\/Kruppes\/Deck_Panel_inserts_logo",
+        "md5": "77664dee43e6df32080c253b595192ef",
+        "descr": "Electronics Deck Panel using brass heat inserts. Optional with accent color Voron Logo.",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "lakai",
+        "title": "Bruag Skirts",
+        "dir": "printer_mods\/lakai\/Bruag_Skirts",
+        "md5": "d6e34583f19bc512bd671d84a93f2439",
+        "descr": "V2 350mm skirts inspired by Bruag Facades",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "leandromarceddu",
+        "title": "PowerSkirt",
+        "dir": "printer_mods\/leandromarceddu\/PowerSkirt",
+        "md5": "4a1e78e9f653024d7c0b322428049ec5",
+        "descr": "Modified skirtpiece for a digital power monitor",
+        "tags": {
+            "v0": 0,
+            "v1_8": 1,
+            "v2_4": 2,
+            "vSW": 1
+        }
+    },
+    {
+        "creator": "leandromarceddu",
+        "title": "Galileo adxl356 mount",
+        "dir": "printer_mods\/leandromarceddu\/GalileoADXL",
+        "md5": "b02a0abee02a07dac4c70174ea7b05b8",
+        "descr": "Modified galileo chain anchor to fit an adxl356",
+        "tags": {
+            "v0": 0,
+            "v1_8": 2,
+            "v2_4": 2,
+            "vSW": 2
+        }
+    },
+    {
+        "creator": "littleferris",
+        "title": "V0 c14 Skirt Inlet",
+        "dir": "printer_mods\/littleferris\/V0_Skirt_Inlet",
+        "md5": "9da4ef90487f4d84e593609e6eb8b1e6",
+        "descr": "V0 C14 Skirt inlet",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "LoCoCNC",
+        "title": "MGN7H Shims",
+        "dir": "printer_mods\/LoCoCNC\/MGN7H_Shims",
+        "md5": "2d15b2bfa06ec343540eca4893194fb7",
+        "descr": "Shims for making bearing cartridges coplanar",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "LoCoCNC",
+        "title": "Mosquito PTFE 15mm Tube Cutting Jig",
+        "dir": "printer_mods\/LoCoCNC\/Mosquito_PTFE_Cutting_Jig",
+        "md5": "64e29857197ec555b24854ab1e4f0192",
+        "descr": "Tool to precicely cut 15mm PTFE Tube",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "LoCoCNC",
+        "title": "3mm Top Hat Panels Clips",
+        "dir": "printer_mods\/LoCoCNC\/3mm_tophat_panel_parts",
+        "md5": "63dd8155c57d38e2e804348174f97acb",
+        "descr": "Required to use the 3mm (1\/8\") thick top hat panels for V0.1",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "LoCoCNC",
+        "title": "Strain Relief w\/ 10 Pin Microfit",
+        "dir": "printer_mods\/LoCoCNC\/Strain_Relief_w_Microfit",
+        "md5": "c0a115fe4e0de5b0fa22a35e65cf5d68",
+        "descr": "Strain Relief with 10 pin Microfit connector",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "LoCoCNC",
+        "title": "SSR Mounting Strap",
+        "dir": "printer_mods\/LoCoCNC\/ssr_strap",
+        "md5": "64dcd98273731ac4b37febf2fa1774f0",
+        "descr": "Mounting Strap for SSR on 1515 Extrusions",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "LoCoCNC",
+        "title": "V2.4 Bed Wiring Grommet",
+        "dir": "printer_mods\/LoCoCNC\/wire_grommets",
+        "md5": "a4a833494a78a09f9ffb5d5b603c5fa4",
+        "descr": "Safely capture your bed wires thru the bottom panel",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Long",
+        "title": "Mantis Dual 5015 Toolhead",
+        "dir": "printer_mods\/Long\/Mantis_Dual_5015",
+        "md5": "f8708214902054183388b27c18c8e87e",
+        "descr": "MGN12 Dual 5015 Toolhead for 2.4 & 1.8",
+        "tags": {
+            "v0": 0,
+            "v1_8": 2,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Majarspeed",
+        "title": "Hartk board mount galileo",
+        "dir": "printer_mods\/Majarspeed\/Hartk_Mount_Galileo",
+        "md5": "4fc1d326fb77c2767165c745f101be4e",
+        "descr": "It hangs stuff on your tool",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "madfabrications",
+        "title": "Vertical PSU Mount",
+        "dir": "printer_mods\/madfabrications\/Vertical_PSU_Mount",
+        "md5": "926b3a2d4e04ba9dc818a4e446dfcc0c",
+        "descr": "Mounts the PSU vertically on the DIN rails",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "madros",
+        "title": "V0 OLED-skirt",
+        "dir": "printer_mods\/madros\/V0_skirt_OLED",
+        "md5": "8aaafb568348278cfdb03f6bbaa288ed",
+        "descr": "V0 skirt with 0.96\" OLED",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "MarcPot",
+        "title": "UHP PSU Bracket Clip",
+        "dir": "printer_mods\/MarcPot\/UHP_PSU_Bracket_Clip",
+        "md5": "1825a9037674cb31cf74d04010095444",
+        "descr": "DIN rail mount for the Mean Well UHP series PSU.",
+        "tags": {
+            "v0": 1,
+            "v1_8": 1,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "MarcPot",
+        "title": "Hour Counter Skirt + Keystone Skirt",
+        "dir": "printer_mods\/MarcPot\/Skirt_Mods",
+        "md5": "78afe93fda578fc65b9bf0e1e4c67268",
+        "descr": "Skirt mod for a mechanical hour counter and keystone inserts",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "MathematicalPotato",
+        "title": "V0.1 Belted Z Drive",
+        "dir": "printer_mods\/MathematicalPotato\/v0.1_belted_z_drive",
+        "md5": "d4d131c5bf068c3b5b4450e0e697927e",
+        "descr": "Conversion to a belted Z axis for the V0.1 adapted from theFPVGeek's mod for the V0.0",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Maverick_",
+        "title": "V0 C14 Inlet",
+        "dir": "printer_mods\/Maverick_\/V0_C14_Inlet_Foot",
+        "md5": "6230effe1730d23bc9f50084f340fb51",
+        "descr": "A modification to the rear foot of the V0 to allow for the addition of a C14 Inlet.",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Maverick_",
+        "title": "V0 Deck Logo",
+        "dir": "printer_mods\/Maverick_\/V0_Deck_Logo_LED",
+        "md5": "6e3266a2e4d9d4d58292fca5f7171329",
+        "descr": "A lower deck panel addition to the V0, designed to accomodate a Neopixel Ring.",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Maverick_",
+        "title": "V0 LED Front Bed Mount",
+        "dir": "printer_mods\/Maverick_\/V0_LED_Front_Bed_Mount",
+        "md5": "974425d6fc06df1628cb2a625afd884f",
+        "descr": "A modification designed to accomodate a Neopixel Jewel (7) in the face of the front bed mount.",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Maverick_",
+        "title": "V0 LED Hinge",
+        "dir": "printer_mods\/Maverick_\/V0_LED_Hinge",
+        "md5": "c5df7eb785dddd662c0b60d762a5f720",
+        "descr": "A modification designed to accomodate a Neopixel Jewel (7) in the top right hinge of the door.",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Maverick_",
+        "title": "V0 TopHat Mini 12864",
+        "dir": "printer_mods\/Maverick_\/V0_TopHat_Mini_12864",
+        "md5": "044dd5c4997eb76714b0b2ba4ade0275",
+        "descr": "Modified TopHat to mount a Mini 12864.",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "mjoaris",
+        "title": "10x11 Cable Chain Endcaps",
+        "dir": "printer_mods\/mjoaris\/10x11_Cable_Chain_Endcaps",
+        "md5": "ef2533fcdc35f1b1f16e4d5257b1267e",
+        "descr": "Printable Endcaps for 10x11 Cable Chains",
+        "tags": {
+            "v0": 0,
+            "v1_8": 2,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "mjoaris",
+        "title": "Mini12864 LCD Mount",
+        "dir": "printer_mods\/mjoaris\/Mini12864_LCD_Mount_for_V2.4",
+        "md5": "bf0432670b2a75cf355df38a993cc01d",
+        "descr": "Swiveling case for the Fysetc Mini12864 LCD",
+        "tags": {
+            "v0": 0,
+            "v1_8": 1,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Mosher",
+        "title": "Door hinges with M3 screws shafts",
+        "dir": "printer_mods\/mosher\/m3_door_hinges",
+        "md5": "6466e6b499aa8d17bf8544e7f879b5ca",
+        "descr": "Simple mod of print in place door hinges, which uses m3 screws as shafts.",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "mpfl",
+        "title": "V0.1 OLED-skirt",
+        "dir": "printer_mods\/mpfl\/V0.1_skirt_OLED",
+        "md5": "f4d348e09034d69fbb561061cc1c9efc",
+        "descr": "V0.1 skirt with 0.96\" OLED",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "MrBean66",
+        "title": "SKR Pro DIN Mount",
+        "dir": "printer_mods\/MrBean66\/SKR_PRO_Mount\/",
+        "md5": "480549f918ba2f88808677a0b9e0974a",
+        "descr": "Simple mod to mount the SKR Pro board from BTT to a DIN rails.",
+        "tags": {
+            "v0": 0,
+            "v1_8": 2,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "MSiemons",
+        "title": "Tophat Hinge V0",
+        "dir": "printer_mods\/MSiemons\/TophatHingeV0.1",
+        "md5": "bf12ebe9a0ae169916f7a8615435d255",
+        "descr": "Simple hinge for V0 Tophat",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Nashuar",
+        "title": "V0 Dragon Toolhead M2.5x8",
+        "dir": "printer_mods\/Nashuar\/V0_Dragon_ToolheadStockScrews",
+        "md5": "6d34d63b219066c6152c0a7bff1d20f9",
+        "descr": "This toolhead uses the stock M2.5 screw that came with the dragon hotend",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "natewalck",
+        "title": "V1.8 Jigs",
+        "dir": "printer_mods\/natewalck\/v1.8_Jigs",
+        "md5": "848218c9927679d0b41719cb507985ec",
+        "descr": "Jigs for assembling V1.8",
+        "tags": {
+            "v0": 0,
+            "v1_8": 2,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "nhchiu",
+        "title": "V0.1 Movable Pulley Z Drive",
+        "dir": "printer_mods\/nhchiu\/V0.1_Movable_Pulley_Z",
+        "md5": "75d8b13c520dcb006e402e5d3fe91429",
+        "descr": "A movable pulley system on the Z axis with 1:8 total speed ratio for V0.1",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Nomsplease",
+        "title": "60mm Shaft Jig",
+        "dir": "printer_mods\/Nomsplease\/60mm_Shaft_Jig",
+        "md5": "84d30da77c1dfd6f7fbf557b99c6dd74",
+        "descr": "Simple jig for cutting and grinding 60mm Z shafts",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Nomsplease",
+        "title": "Duet Wifi Mount",
+        "dir": "printer_mods\/Nomsplease\/V0_Mods\/duet_wifi_mount",
+        "md5": "55411864fd30eb1dd0044a4ed499be86",
+        "descr": "Duet wifi mount in pocketwatch location",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Nomsplease",
+        "title": "LED Mounts",
+        "dir": "printer_mods\/Nomsplease\/V0_Mods\/led_mounts",
+        "md5": "7e387e0e90a310519125316e87e08d87",
+        "descr": "Basic LED mounts for 10 and 12mm strips",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Nomsplease",
+        "title": "Remixed Panel Mounts",
+        "dir": "printer_mods\/Nomsplease\/V0_Mods\/panel_mounts",
+        "md5": "5e53fffed9dc43056f145b0e5fe46a07",
+        "descr": "Remixed rear bottom panel mounts with stop",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Nomsplease",
+        "title": "Pi Cam\/ZeroW Mount",
+        "dir": "printer_mods\/Nomsplease\/V0_Mods\/pi_zero_camera_mount",
+        "md5": "9459ef485c8ce2a84dc2708d6d313dfd",
+        "descr": "Mount for pi camera and ZeroW",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Nomsplease",
+        "title": "Pocket Watch Rear Reolcation Bracket",
+        "dir": "printer_mods\/Nomsplease\/V0_Mods\/pocket_watch_rear_relocation",
+        "md5": "7b56b8f2b112b7da9be8265e5a7d0fba",
+        "descr": "Pocket watch rear reolcation bracket",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Oakman",
+        "title": "FYSETC Spider Metal DIN Mount",
+        "dir": "printer_mods\/Oakman\/FYSETC_Spider_Metal_DIN_Mount",
+        "md5": "8abb5bfeff10b236b246f4a29faf58f6",
+        "descr": "Use a metal DIN mount for your FYSETC Spider",
+        "tags": {
+            "v0": 0,
+            "v1_8": 2,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Oakman",
+        "title": "BTT 24V UPS Metal DIN Mount",
+        "dir": "printer_mods\/Oakman\/BTT_24V_UPS_Metal_DIN_Mount",
+        "md5": "f4ce10e5ffcd3ab239b67c676d8605f6",
+        "descr": "Adapter to use a metal DIN mount for the BTT 24V UPS",
+        "tags": {
+            "v0": 0,
+            "v1_8": 2,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Oakman",
+        "title": "RPI Metal DIN Mount",
+        "dir": "printer_mods\/Oakman\/RPI_Metal_DIN_Mount",
+        "md5": "38ed3813de17532aea2935d8f6de9c44",
+        "descr": "Adapter for metal DIN mounting the Raspberry Pi",
+        "tags": {
+            "v0": 0,
+            "v1_8": 2,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "ommy",
+        "title": "roller brackets",
+        "dir": "printer_mods\/ommy\/roller_brackets",
+        "md5": "fa4f5bc158f553ef6d3b18f60d55639c",
+        "descr": "Brackets to help rolling V2 on its side.",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "oxno",
+        "title": "RBP Zero Bracket",
+        "dir": "printer_mods\/oxno\/rbp_zero_braket",
+        "md5": "837ab8037f49c5f8951f3d0c33724a6b",
+        "descr": "Bracket for Raspberry pi zero.",
+        "tags": {
+            "v0": 0,
+            "v1_8": 2,
+            "v2_4": 2,
+            "vSW": 1
+        }
+    },
+    {
+        "creator": "padok",
+        "title": "Chain Anchor - ADXL345 mount Mod",
+        "dir": "printer_mods\/padok\/chain_anchor-ADXL345_mount",
+        "md5": "5ebc52d8237f85e46b18fd47673a898a",
+        "descr": "A ADXL345 mount for the Afterburner",
+        "tags": {
+            "v0": 0,
+            "v1_8": 1,
+            "v2_4": 2,
+            "vSW": 1
+        }
+    },
+    {
+        "creator": "Phalanx",
+        "title": "\"Other\" Idlers Mod",
+        "dir": "printer_mods\/Phalanx\/Other-V2-Idlers\/",
+        "md5": "790f54069af2ae0479974e2d4a92bad1",
+        "descr": "Allow usage of wider toolheads on the V2",
+        "tags": {
+            "v0": 0,
+            "v1_8": 1,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "piet206",
+        "title": "V1.8 Z Rails Mod",
+        "dir": "printer_mods\/piet206\/V1.8._Z_Rails_Mod",
+        "md5": "3527c2be6047986f054673a5abf537fe",
+        "descr": "Add MGN12H linear rails for Z axis motion",
+        "tags": {
+            "v0": 0,
+            "v1_8": 2,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Printopal",
+        "title": "Magnetic top panel",
+        "dir": "printer_mods\/Printopal\/Magnetic_top_panel",
+        "md5": "72709cb63034713ee1b9de40318b393b",
+        "descr": "Top panel with magnets allows for quick installation and removal",
+        "tags": {
+            "v0": 0,
+            "v1_8": 2,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "QuackProfit",
+        "title": "V0 Adafruit NeoPixel LED Mounts",
+        "dir": "printer_mods\/QuackProfit\/V0-Adafruit-Y_Rails",
+        "md5": "01893980b20de08c240296777c77db3e",
+        "descr": "Mount Adafruit PCB NeoPixel Sticks on the V0 Y-rail extrusions",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "randell",
+        "title": "Door Hinges",
+        "dir": "printer_mods\/randell\/Door_Hinges",
+        "md5": "7bb680b2ad51109f822022e99c519d0a",
+        "descr": "Door hinges that use an M3 bolt for a pin and bolts thru the panel",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "randell",
+        "title": "Microswitch Pod for PCB",
+        "dir": "printer_mods\/randell\/Microswitch_Endstop",
+        "md5": "514e188e6f553e4db9c1ac8e4ad07d75",
+        "descr": "Modified endstop pod for use of endstop switches mounted on a PCB",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "raymondh",
+        "title": "Large Spool Holders",
+        "dir": "printer_mods\/raymondh\/LargeSpoolHolders",
+        "md5": "5394f250eb6fa89d028bad523cb3f9cb",
+        "descr": "Larger spool holders for KVP spools",
+        "tags": {
+            "v0": 0,
+            "v1_8": 2,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "revnull",
+        "title": "Raspberry Pi 7inch Display Mount",
+        "dir": "printer_mods\/revnull\/rpi_7in_display_mount",
+        "md5": "bea332a2fdbb5d61e41bad3b037d58fa",
+        "descr": "An articulating mount for the offical Raspberry Pi 7inch touch screen",
+        "tags": {
+            "v0": 1,
+            "v1_8": 1,
+            "v2_4": 2,
+            "vSW": 1
+        }
+    },
+    {
+        "creator": "Rhastlyn",
+        "title": "Wansview 1080p Camera Mount",
+        "dir": "printer_mods\/Rhastlyn\/WansviewCameraMount",
+        "md5": "5b9f077ed2f8dfc9eba1215097de95a1",
+        "descr": "A camera mount that replaces the OEM part to allow the camera to be mounted to a 2020 extrusion",
+        "tags": {
+            "v0": 0,
+            "v1_8": 1,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Rhastlyn",
+        "title": "60mm Fan Cover",
+        "dir": "printer_mods\/Rhastlyn\/60mmFanCover",
+        "md5": "e6c60547437363f7973044c8f3b54ac7",
+        "descr": "A easy to install cover for spec 60mm fans originally designed for a 2.4 build",
+        "tags": {
+            "v0": 0,
+            "v1_8": 1,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Rhastlyn",
+        "title": "richardjm",
+        "dir": "printer_mods\/",
+        "md5": "381275433c99fdeca8250e3997f01625",
+        "descr": "Picam corner mount",
+        "tags": {
+            "v0": 1,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 2
+        }
+    },
+    {
+        "creator": "roboticator24",
+        "title": "Touchscreen for OctoDash",
+        "dir": "printer_mods\/roboticator24\/4inch_touchscreen_mount_for_v2.4",
+        "md5": "f1d10894f20c13df8f14559b8a0a4baf",
+        "descr": "Mount a 4-inch LCD touchscreen to your V2.4 in place of the usual 12864 panel to allow you to run the amazing OctoDash touch UI",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "rngSplat",
+        "title": "Printable Switchwire Deck Plate",
+        "dir": "printer_mods\/rngSplat\/SW_Deck_Plate",
+        "md5": "bba129deb7bf1020b98587bd12182005",
+        "descr": "Print a deck plate for Switchwire with debossed Voron logo",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 2
+        }
+    },
+    {
+        "creator": "rsheng118",
+        "title": "BTT octopus DIN vertical mount",
+        "dir": "printer_mods\/rsheng118\/BTT_octopus_DIN_vertical_mount",
+        "md5": "a02ecd52ec339448110e0e4a19ca5199",
+        "descr": "DIN vertical mount for Big Tech Tree Octopus board",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "See1807",
+        "title": "TopHat Exhaust and LED Light",
+        "dir": "printer_mods\/See1807\/Voron_V0_Exhaust_and_LED_Mod",
+        "md5": "ae7733eaa6182807dbb00a84e9d7708b",
+        "descr": "A mount for 10mm LED strips and Exhaust for Voron V0",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "sse018",
+        "title": "Octopus DIN Rail bracket",
+        "dir": "printer_mods\/sse018\/Octopus_DIN_Rail_bracket",
+        "md5": "8e24209b9a7ad41dd4dff81fb049cae6",
+        "descr": "A Din rail mount for BTT Octopus board",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Slidr",
+        "title": "PanzerChain 2.4",
+        "dir": "printer_mods\/Slidr\/PanzerChain2.4",
+        "md5": "6856c48ae9ecff8c6ce8c402b314fc25",
+        "descr": "Energychain for V2.4",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "sloscotty",
+        "title": "Switchwire Wall Plate",
+        "dir": "printer_mods\/sloscotty\/SW_Wall_Plate",
+        "md5": "b25e63a49a4da587d94b99621e5bbbe0",
+        "descr": "SW plate for enclosure",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 2
+        }
+    },
+    {
+        "creator": "Spaghetti-Bolognese",
+        "title": "Simplified Z Drive Motor Mount",
+        "dir": "printer_mods\/Spaghetti-Bolognese\/Z_drive_motor_mount",
+        "md5": "27ae00b94a994ca6f9fc8f08f4ec42a9",
+        "descr": "Z drive motor mount bracket mod to improve pulley to belt alignment",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Spaghetti-Bolognese",
+        "title": "LCD Case Mod",
+        "dir": "printer_mods\/Spaghetti-Bolognese\/LCD_case_mod",
+        "md5": "95f4aa548a7f6e169f7f656a33937f81",
+        "descr": "Improvements to the V2.4 mini12864 LCD case inc E-stop button cover",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Shteeeeeve",
+        "title": "V0.1 LED Tophat",
+        "dir": "printer_mods\/Shteeeeeve\/V01-LED-Tophat",
+        "md5": "341dfe2bb4d5c85a74cc1e5793507756",
+        "descr": "V0.1 LED Tophat w\/ 24V LED Lightstrip",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "sttts",
+        "title": "Waveshare 5.5inch HDMI AMOLED Mount",
+        "dir": "printer_mods\/sttts\/Waveshare-5.5-inch-HDMI-AMOLED",
+        "md5": "d49513f793afddf2c5365f25fa43b684",
+        "descr": "Mod to mount a Waveshare 5.5inch full HD display on a V2",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "StvPtrsn",
+        "title": "Skirts for a 320mm Build",
+        "dir": "printer_mods\/StvPtrsn\/320mm_Build",
+        "md5": "6d750b27c72b4f110a7227f39234789e",
+        "descr": "Skirts for a 320mm build",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "StvPtrsn",
+        "title": "Keystone Jack for Filtered Mains Panel",
+        "dir": "printer_mods\/StvPtrsn\/Keystone_Jack_Filtered_Mains_Panel",
+        "md5": "b1a1128586b46d6dbae7f7fe9d4ede9a",
+        "descr": "Add a keystone jack to your filtered mains plug panel",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "StvPtrsn",
+        "title": "Side Fan Support, No Tape",
+        "dir": "printer_mods\/StvPtrsn\/Side_Fan_Support_No_Tape",
+        "md5": "11c453b4f218f74fe69c0d6daebf7cb7",
+        "descr": "Mount the 60mm side fans and inserts without tape",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "TAKUYA",
+        "title": "WANSVIEW USB Camera Mount",
+        "dir": "printer_mods\/Takuya\/USBCameraMount\/",
+        "md5": "09e7b1175d9a05b5fdf5e4613eb4bdcc",
+        "descr": "WANSVIEW 1080p Camera Mount for Voron 2.4",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "tameike",
+        "title": "Din Rail SKR 90 deg",
+        "dir": "printer_mods\/tameike\/DIN_Rail_SKR_1.3_90deg",
+        "md5": "4af53ab576fa850ada90ce3340fbf694",
+        "descr": "SKR V1.3 bracket turned 90 degrees",
+        "tags": {
+            "v0": 0,
+            "v1_8": 1,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "tameike",
+        "title": "Din Rail 2020 Holder",
+        "dir": "printer_mods\/tameike\/DIN_Rail_2020_holder",
+        "md5": "ec00056d418a0c58a7e79c4bb1f726b3",
+        "descr": "Attaching DIN Rails to 2020",
+        "tags": {
+            "v0": 0,
+            "v1_8": 1,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "tameike",
+        "title": "TacoRaven Mounting Frame",
+        "dir": "printer_mods\/tameike\/V0_TR_Mounting_Frame",
+        "md5": "b03d4e77a2694c2f8e183be5bb557296",
+        "descr": "TR V0 mount",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "tameike",
+        "title": "Jetpack V0 base",
+        "dir": "printer_mods\/tameike\/Jetpack_V0",
+        "md5": "cefa7dd99cf5553ece2c4172fe63cd97",
+        "descr": "Attach Jetpack to V0 frame",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "tayto-chip",
+        "title": "V2.4 Skirt Switch Mod",
+        "dir": "printer_mods\/tayto-chip\/skirt_switch_mod",
+        "md5": "7bfa2f009bc336676b676dccee7ddeb6",
+        "descr": "Add a ON\/OFF Switch to side or front skirts",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "teookie",
+        "title": "AB dial indicator mount",
+        "dir": "printer_mods\/teookie\/AB_dial_indicator_mount",
+        "md5": "38b677e02b8140eb37079a4748ba57bc",
+        "descr": "Mount for attaching standard dial indicators to AB",
+        "tags": {
+            "v0": 0,
+            "v1_8": 2,
+            "v2_4": 2,
+            "vSW": 2
+        }
+    },
+    {
+        "creator": "teookie",
+        "title": "SKR Brace",
+        "dir": "printer_mods\/teookie\/skr_brace",
+        "md5": "10fe6b230f8d7b8736088fe9e5308db8",
+        "descr": "Rigidize and stabilize SKR 1.4 mounts",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Tircown",
+        "title": "Display mount 5\"",
+        "dir": "printer_mods\/Tircown\/Display_mount_5inch",
+        "md5": "4da5dba3b07a0c6a3bff5adfcdc247e2",
+        "descr": "Tiltable mount for a 5\" tactile display",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Tircown",
+        "title": "Raspberry in plug panel",
+        "dir": "printer_mods\/Tircown\/Raspberry_plug_panel",
+        "md5": "b46aaf2581e2977c860ecd50519eadeb",
+        "descr": "Raspberry mount vertically in the plug panel, allow easy access to ports",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Tircown",
+        "title": "DIN mount RS-15-5 PSU",
+        "dir": "printer_mods\/Tircown\/DIN_mount_RS-15-5",
+        "md5": "f610b93b85c887b751f2a388248d5df1",
+        "descr": "A DIN mount for the RS-15-5",
+        "tags": {
+            "v0": 1,
+            "v1_8": 1,
+            "v2_4": 2,
+            "vSW": 1
+        }
+    },
+    {
+        "creator": "togi",
+        "title": "Exhaust housing side fitting",
+        "dir": "printer_mods\/togi\/exhaust_housing_side_fitting",
+        "md5": "25b61cbc36cd61221fc22eab1359c422",
+        "descr": "Moves the exhaust housing bowden fitting 90 degrees to allow the printer to stand closer to a wall",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Triano",
+        "title": "Ender 3 Pro or V2 to Switchwire Mod",
+        "dir": "printer_mods\/Triano\/Ender_3Pro_Switchwire",
+        "md5": "0de9169f4ede892ea9e85be41ccbaa04",
+        "descr": "Convesion of an Ender 3 Pro or V2 to a Switchwire",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 2
+        }
+    },
+    {
+        "creator": "UltraWaffles",
+        "title": "Ender 3 to SW conversion",
+        "dir": "printer_mods\/Ultrawaffles\/Ender_3_to_SW",
+        "md5": "89790cf957fb598d1880a27adb86a7bb",
+        "descr": "A conversion mod for the ender 3 to switchwire. Designed to allow for enclosure and uses original ender 3 motors and switches",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 2
+        }
+    },
+    {
+        "creator": "warriorofwire",
+        "title": "Slenderfan for Afterburner",
+        "dir": "printer_mods\/warriorofwire\/slenderfan",
+        "md5": "67546d5395d5684417605393ea46e9fa",
+        "descr": "Lighter, quieter, smaller Afterburner",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Weaslus",
+        "title": "Electronics Bay and Enclosure Seperator",
+        "dir": "printer_mods\/Weaslus\/Electronics-Bay-Seperator",
+        "md5": "8e083556ede135e29e474b85c7c5bb47",
+        "descr": "Better enclose chamber and keep heat from electronics",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "whoppingpochard",
+        "title": "Extrusion Backers",
+        "dir": "printer_mods\/whoppingpochard\/extrusion_backers",
+        "md5": "fed8006e28426eadd143ed326b800131",
+        "descr": "Laser-cut metal pieces to counteract bimetallic frame warping",
+        "tags": {
+            "v0": 0,
+            "v1_8": 1,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Wile.e",
+        "title": "Deck Panel Support Clips",
+        "dir": "printer_mods\/wile-e1\/Deck_Panel_Support_Clips",
+        "md5": "8ce1a43640ef4695040a006c12895538",
+        "descr": "Clips to help support lower deck panels to prevent (or fix) warping:",
+        "tags": {
+            "v0": 1,
+            "v1_8": 2,
+            "v2_4": 2,
+            "vSW": 1
+        }
+    },
+    {
+        "creator": "wrez",
+        "title": "V0 Alternate IEC 320 C14 Power Inlet Housing",
+        "dir": "printer_mods\/wrez\/astrodyne-inlet",
+        "md5": "40a1c0db1dc89d82ea45edeebbe7e792",
+        "descr": "Drop in replacement for alternate-source power inlet if spec inlet is back-ordered",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "xbst_",
+        "title": "PCB LED Holder",
+        "dir": "printer_mods\/xbst_\/LED_Holder",
+        "md5": "88e71f29b005b817928b9af94a138ee4",
+        "descr": "Very simple mount for some (?) PCB LED Bars",
+        "tags": {
+            "v0": 0,
+            "v1_8": 2,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "xbst_",
+        "title": "DIN Mount Omron Relay",
+        "dir": "printer_mods\/xbst_\/Omron_DIN_Mount",
+        "md5": "20263b002f69494b89aff3068ada7346",
+        "descr": "A simple DIN rail mount for the BOM Relay",
+        "tags": {
+            "v0": 0,
+            "v1_8": 2,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "xbst_",
+        "title": "DIN Mount Pi 4x Relay Board",
+        "dir": "printer_mods\/xbst_\/Relay_DIN_Mount",
+        "md5": "e232308e4444539d9917464a65c448f2",
+        "descr": "A simple DIN rail mount for the 4 channel relay board for Raspberry Pi",
+        "tags": {
+            "v0": 0,
+            "v1_8": 2,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "xbst_",
+        "title": "DIN Mount Max31865",
+        "dir": "printer_mods\/xbst_\/Max31865_DIN_Mount",
+        "md5": "635b1e0e081d7278a202cd867a5a06e1",
+        "descr": "A simple DIN rail mount for the Adafruit (or SAME SIZE clone) MAX31865 PT100 Board.",
+        "tags": {
+            "v0": 0,
+            "v1_8": 2,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "xbst_",
+        "title": "Car Hood Style Bed Hinge",
+        "dir": "printer_mods\/xbst_\/Bed_Hinge",
+        "md5": "5847f023f70ada76f664e69e4245c44f",
+        "descr": "A way of reaching electronics from the top by having a \"car hood\" style hinge for the heatbed, and rotated electronics mounts.",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "xbst_",
+        "title": "Flat V2.4 Skirts",
+        "dir": "printer_mods\/xbst_\/Flat_Skirts",
+        "md5": "260c24d711ebec059e2daed701daaf1d",
+        "descr": "Flat V2.4 Skirts so a panel without cutouts can be used",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "xbst_",
+        "title": "V2.4 Fanless Middle Skirt",
+        "dir": "printer_mods\/xbst_\/V2.4_Fanless_Middle_Skirt",
+        "md5": "43009df525b4760489789b1d8a517dde",
+        "descr": "A Fanless alternative middle side skirt",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "xbst_",
+        "title": "Duct Mount",
+        "dir": "printer_mods\/xbst_\/Duct_Mount",
+        "md5": "2ebb50325d5c3d1c30cb2fb6654c1872",
+        "descr": "100mm\/4\" ducting mount for ventilation. Also supports umbilical cord and has 3 orientations for bowden adapter.",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "xbst_",
+        "title": "V2.4 Skirt Buttons",
+        "dir": "printer_mods\/xbst_\/V2.4_Skirt_Buttons",
+        "md5": "e3c0ed4703804186e5442372e43d0787",
+        "descr": "Skirt mod for custom Gcode macro buttons",
+        "tags": {
+            "v0": 0,
+            "v1_8": 0,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "xbst_",
+        "title": "HOYMK SSR Mount",
+        "dir": "printer_mods\/xbst_\/HOYMK_SSR_Mount",
+        "md5": "0d9c717b7192a3174bef42443a7d5894",
+        "descr": "Mount for Chinese HOYMK SSR",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "xbst_",
+        "title": "ADXL345 V0 Mount",
+        "dir": "printer_mods\/xbst_\/ADXL345_V0_Mount",
+        "md5": "35d6f639d6fd63386e5964066ce34f33",
+        "descr": "V0 Mount for a ADXL345 module",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "xbst_",
+        "title": "Easy Access Rear Panels",
+        "dir": "printer_mods\/xbst_\/Easy_Access_Rear_Panels_v0",
+        "md5": "7efe1229938f592718f3ad596a90c582",
+        "descr": "New rear panels designed to expose the extruder for easy filament swapping",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "xbst_",
+        "title": "Hat LED Mount",
+        "dir": "printer_mods\/xbst_\/Hat_LED_Mount",
+        "md5": "36373f1d50612ddd4c091936c5dbb3b9",
+        "descr": "Top Hat LED module mount",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "xbst_",
+        "title": "ZipClip V0",
+        "dir": "printer_mods\/xbst_\/ZipClip_v0",
+        "md5": "ddf3b5d56aebd7cfa9d0c7c6a1eb48aa",
+        "descr": "Very simple ziptie mount for v0 1515 extrusions",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "xbst_",
+        "title": "Screwed Front Door Hinge",
+        "dir": "printer_mods\/xbst_\/V0_Screw_Front_Hinge_Mod",
+        "md5": "3fcba4f7be33ef02858e65ad1d1f4ef9",
+        "descr": "Mod to screw the front door panel (instead of VHB)",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "xbst_",
+        "title": "V0 Buttons & OLED Mount",
+        "dir": "printer_mods\/xbst_\/V0_Skirt_Buttons",
+        "md5": "f6f0c2cb8683a8cd30bd056149a1ac1f",
+        "descr": "Mod to mount custom Gcode macro buttons & Waveshare 1.3\" OLED display",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "xbst_",
+        "title": "Mobius 4 (M4) V0 Mod",
+        "dir": "printer_mods\/xbst_\/V0_M4_Mod",
+        "md5": "5c3d4a3dd7336225cfc3f66a2ee0a7cf",
+        "descr": "Mod to mount a M4 extruder to a Voron 0 where pocketwatch extruder mounts",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "xbst_",
+        "title": "V0 Electronics Cover",
+        "dir": "printer_mods\/xbst_\/V0_Electronic_Panel",
+        "md5": "df1d84533f494a35b3f109c4b95ae48f",
+        "descr": "A printed cover for v0 electronics. Requires larger printer to print.",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "xbst_",
+        "title": "V0 PiCam Mount",
+        "dir": "printer_mods\/xbst_\/V0_Picam",
+        "md5": "884da303521ca21c27b576b3a9b19fa1",
+        "descr": "A Raspberry Pi Camera Mount For V0",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "xbst_",
+        "title": "DuetZero",
+        "dir": "printer_mods\/xbst_\/DuetZero",
+        "md5": "e06cd44b45d4cdc10ac4fb0e6bbe4109",
+        "descr": "Pi Zero mount over a Duet2 for space saving",
+        "tags": {
+            "v0": 2,
+            "v1_8": 2,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Xceled",
+        "title": "Single Panel Magnet Mount",
+        "dir": "printer_mods\/xceled\/Single_Panel_Magnet_Mount",
+        "md5": "95f1c038b7f4c0cbd2b5d3c29be1b6ee",
+        "descr": "Mount your front panel using only magnets",
+        "tags": {
+            "v0": 0,
+            "v1_8": 1,
+            "v2_4": 2,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Yeri",
+        "title": "V0 Magnetic Panels",
+        "dir": "printer_mods\/yeri\/V0_Magnetic_Panels",
+        "md5": "3b4920b9a6a26a482f206277b9c65b49",
+        "descr": "Mount V0 panels with magnets, removes need for hinges and lets you easily detach sides for access",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Yeri",
+        "title": "V1 3Z",
+        "dir": "printer_mods\/yeri\/V1_3Z",
+        "md5": "757b7836a4073606777733fc77d4e06e",
+        "descr": "3Z mod for V1",
+        "tags": {
+            "v0": 0,
+            "v1_8": 2,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Zen3D",
+        "title": "V0 Handle",
+        "dir": "printer_mods\/Zen3D\/V0_Handle",
+        "md5": "976eaa1a1b89b421e1fe4996f7713350",
+        "descr": "Voron0 Handle for 3mm panels",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Zen3D",
+        "title": "V0 MidPanel HexPattern",
+        "dir": "printer_mods\/Zen3D\/V0_MidPanel_HexPattern",
+        "md5": "21aa332856f7c4e60624e8bad25b363c",
+        "descr": "Voron0 MidPanel with Hex pattern and Wire cover",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Zen3D",
+        "title": "V0 Skirt set",
+        "dir": "printer_mods\/Zen3D\/V0_Skirt",
+        "md5": "7e6d8459dc4df1358696a20b0dcae5d1",
+        "descr": "SSR, PowerSwitch, Nameplate and color change printing",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "Zen3D",
+        "title": "V0 1515 T-nut",
+        "dir": "printer_mods\/Zen3D\/V0_1515_T-nut",
+        "md5": "3cd7b7f254826089f99d44b743ae76fa",
+        "descr": "M3 square and hex nuts for Voron0 1515 frame",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "zruncho",
+        "title": "V0 No-Drop Nuts",
+        "dir": "printer_mods\/zruncho\/V0_No_Drop_Nuts",
+        "md5": "e510b3677988b90abeee81d065c7358d",
+        "descr": "Voron0 nut inserts which auto-align (LDO frames only)",
+        "tags": {
+            "v0": 2,
+            "v1_8": 0,
+            "v2_4": 0,
+            "vSW": 0
+        }
+    },
+    {
+        "creator": "3D_Black",
+        "title": "Fan Covers",
+        "dir": "legacy_printers\/printer_mods\/3D_Black",
+        "md5": "1f77975f4e3a0943db0bc3dfdc311325",
+        "descr": "Different fan covers for 40mm fans",
+        "tags": {
+            "v1_6": 2,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "agsolino",
+        "title": "RunOut Filament Holder",
+        "dir": "legacy_printers\/printer_mods\/agsolino\/RunOutFilamentHolder",
+        "md5": "e2525cf63faed2ba4c886972d85c7b86",
+        "descr": "Holder for TriangleLab Runout sensor",
+        "tags": {
+            "v1_6": 1,
+            "v2_1": 1,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "agsolino",
+        "title": "RS-25-5 Rotated",
+        "dir": "legacy_printers\/printer_mods\/agsolino\/RS25-5-Rotated",
+        "md5": "522b144750f99996b0ecceefe17490c1",
+        "descr": "RS-25-5 PSU mount rotated 90 Degrees",
+        "tags": {
+            "v1_6": 1,
+            "v2_1": 1,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "Andreq",
+        "title": "Mobius Shaft Jig",
+        "dir": "legacy_printers\/printer_mods\/andreq\/voron2",
+        "md5": "eba1f3f9758f5fa3153ba966d288d222",
+        "descr": "Tool used for grinding flats on a shaft at specific places",
+        "tags": {
+            "v1_6": 2,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "Armstr0ng",
+        "title": "Led extrusions mount",
+        "dir": "legacy_printers\/printer_mods\/Armstr0ng",
+        "md5": "196a363cf2543dfe65ec708cc9c079c4",
+        "descr": "A mount for aluminium LED extrusions with hidden fasteners",
+        "tags": {
+            "v1_6": 1,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "ArmyAg08",
+        "title": "Logitech Camera Mounts",
+        "dir": "legacy_printers\/printer_mods\/ArmyAg08\/Logitech_C270_Mounts",
+        "md5": "1f453b70e088d2097e9472a2c28cfecc",
+        "descr": "Different Logitech camera mounts, attached to the extrusions. Fits C270 and C310",
+        "tags": {
+            "v1_6": 2,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "ArmyAg08",
+        "title": "Corner Panel Clip",
+        "dir": "legacy_printers\/printer_mods\/ArmyAg08\/Panels",
+        "md5": "7d53faf6adea12bbe3d8cecc9a1ef0ae",
+        "descr": "Corner panel clip that fit 3mm or 1\/8\" panels with foam tape",
+        "tags": {
+            "v1_6": 0,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "Badnoob",
+        "title": "Serial Plate",
+        "dir": "legacy_printers\/printer_mods\/Badnoob\/Serial_Plate",
+        "md5": "e50be318d14e872293478a6600327448",
+        "descr": "Modified skirt piece to display your serial number",
+        "tags": {
+            "v1_6": 0,
+            "v2_1": 0,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "bryansj",
+        "title": "Rotated Pi Mount with Heatsink",
+        "dir": "legacy_printers\/printer_mods\/bryansj\/RPi_Frame_with_Heatsink_90deg",
+        "md5": "7a3853e88bc6a84e6c62c40ed3cad588",
+        "descr": "Raspberry Pi with Heatsink Frame for minimal channel width",
+        "tags": {
+            "v1_6": 2,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "bryansj",
+        "title": "Keystone Jack Universal Skirt Insert",
+        "dir": "legacy_printers\/printer_mods\/bryansj\/Keystone_Jack_Universal_Skirt_Insert",
+        "md5": "d54c7c5399d6083ffe779d1ab56f7f1a",
+        "descr": "Keystone Jack Insert to fit into any hexagonal hole in the skirt",
+        "tags": {
+            "v1_6": 2,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "bryansj",
+        "title": "Befenybay Chain Anchors",
+        "dir": "legacy_printers\/printer_mods\/bryansj\/Befenybay_Chain_Anchors",
+        "md5": "1595eceea10cbd4f8f48210abff3afed",
+        "descr": "Befenybay 10x11 Drag Chain Top Anchor and 2020 Extrusion Mount",
+        "tags": {
+            "v1_6": 0,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "blamm",
+        "title": "Blind Joint Drilling Jigs",
+        "dir": "legacy_printers\/printer_mods\/blamm\/jigs",
+        "md5": "a8db7c29c538d0c4207ce98eaf68ac36",
+        "descr": "Jigs to drill your blind joints in the right spot",
+        "tags": {
+            "v1_6": 2,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "blamm",
+        "title": "HEPA Filter Housing",
+        "dir": "legacy_printers\/printer_mods\/blamm\/hepa_filter",
+        "md5": "dfd9421d564875b792a41f07a67dcd58",
+        "descr": "HEPA Filter Housing for cheap Roomba filters",
+        "tags": {
+            "v1_6": 2,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "blamm",
+        "title": "Relay module bracket",
+        "dir": "legacy_printers\/printer_mods\/blamm\/relay_bracket",
+        "md5": "dd749edb590d99f51b8d1cec2399846d",
+        "descr": "Relay module (4 channel) mount",
+        "tags": {
+            "v1_6": 2,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "cadriel",
+        "title": "Triangle Lab Filament Sensor Mount",
+        "dir": "legacy_printers\/printer_mods\/cadriel\/triangle_lab_filament_sensor_mount",
+        "md5": "3d7fcaf4f61578a47a0e4f94dac9692e",
+        "descr": "Triange Lab filament sensor mounts",
+        "tags": {
+            "v1_6": 1,
+            "v2_1": 1,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "Cerulean",
+        "title": "Respooler",
+        "dir": "legacy_printers\/printer_mods\/Cerulean\/Respooler",
+        "md5": "3edcb07b67aecf1d18a46984d8091fe7",
+        "descr": "Respool tangled spools or bad koils",
+        "tags": {
+            "v1_6": 2,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "chilicoke",
+        "title": "Low Profile Exhaust Duct",
+        "dir": "legacy_printers\/printer_mods\/chilicoke\/Low_profile_exhaust_duct_adapter",
+        "md5": "ae115478a296b5a2d46eb15a88b46a49",
+        "descr": "Quick-release exhaust duct adapter that requires minumal rear spacing",
+        "tags": {
+            "v1_6": 1,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "christophmuellerorg",
+        "title": "Duet Maestro mount for Voron 2.2",
+        "dir": "legacy_printers\/printer_mods\/christophmuellerorg\/duet_maestro_frame_mount_skirt",
+        "md5": "c2cce9c2dafe7c4ea30ea7afc53842a2",
+        "descr": "Duet Maestro mount for V2.2",
+        "tags": {
+            "v1_6": 0,
+            "v2_1": 1,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "christophmuellerorg",
+        "title": "FYSETC Panel Due 5i",
+        "dir": "legacy_printers\/printer_mods\/christophmuellerorg\/fysetc_panel_due_5_integrated_voron2.2_display_holder",
+        "md5": "6f526b0fb130533dafbcee831c6549b7",
+        "descr": "Standard LCD compatible holder for the FYSETC integrated panel due",
+        "tags": {
+            "v1_6": 0,
+            "v2_1": 1,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "christophmuellerorg",
+        "title": "Mains plug panel for the RND_165-00057",
+        "dir": "legacy_printers\/printer_mods\/christophmuellerorg\/mains_plug_panel_for_RND_165-00057",
+        "md5": "0d1bce0be1fcbcf2cdf3cc17ce83fc55",
+        "descr": "Mains plug panel for the RND_165-00057 Filter\/Switch combination",
+        "tags": {
+            "v1_6": 0,
+            "v2_1": 1,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "Danowar",
+        "title": "Dual Mobius Mount",
+        "dir": "legacy_printers\/printer_mods\/Danowar\/Dual_Mobuis_Mount",
+        "md5": "5d1180ccbe91f9bd38dda4c214fb5d0c",
+        "descr": "Mounts two Mobius Extruders to the back of the printer",
+        "tags": {
+            "v1_6": 2,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "Danowar",
+        "title": "F6 Board Mount",
+        "dir": "legacy_printers\/printer_mods\/Danowar\/F6_Board_Mount",
+        "md5": "8b1f54561869b2d4229850213758d25c",
+        "descr": "Mounts for FYSETCS F6 controller boards",
+        "tags": {
+            "v1_6": 2,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "Danowar",
+        "title": "Humidity Sensor Bracket",
+        "dir": "legacy_printers\/printer_mods\/Danowar\/Humidity_Sensor_Bracket",
+        "md5": "78ab79dc62bbe90e35935f8e8e979038",
+        "descr": "Mount for Humidity\/Temperature sensor",
+        "tags": {
+            "v1_6": 2,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "Danowar",
+        "title": "Load Cell Spool Holder",
+        "dir": "legacy_printers\/printer_mods\/Danowar\/Load_Cell_Spool_Holder",
+        "md5": "bf68434c54ae94f0cfeed62914363c57",
+        "descr": "Spool holder with built in weight scale",
+        "tags": {
+            "v1_6": 0,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "Danowar",
+        "title": "TL 2-to-1 Mosquito Toolhead Adapter",
+        "dir": "legacy_printers\/printer_mods\/Danowar\/TL_2-to-1_Mosquito_Toolhead_Adapter",
+        "md5": "2192f82355f2ebb4f3454f84a5347300",
+        "descr": "Mounts the Triangle Labs 2-to-1 adapter directly to the mosquito toolhead",
+        "tags": {
+            "v1_6": 2,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "Danowar",
+        "title": "Tablet mount",
+        "dir": "legacy_printers\/printer_mods\/Danowar\/Tablet_Mount",
+        "md5": "b935ea85d57a9a9da0d1131c47c8f956",
+        "descr": "Detachable mount for tablet using magnets",
+        "tags": {
+            "v1_6": 2,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "Danowar",
+        "title": "V2.2 Wrench",
+        "dir": "legacy_printers\/printer_mods\/Danowar\/V2.2_Wrench",
+        "md5": "d02d971def18bc577910444c08be91e9",
+        "descr": "3 sided wrench for 2.2 bearing caps and panel clips",
+        "tags": {
+            "v1_6": 0,
+            "v2_1": 0,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "Danowar",
+        "title": "Alternative Z Chain",
+        "dir": "legacy_printers\/printer_mods\/Danowar\/AltZChain",
+        "md5": "38dea85960a160be27c692d879e2aea5",
+        "descr": "Alternative mounting for Z-Axis zipchain",
+        "tags": {
+            "v1_6": 0,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "daveidmx",
+        "title": "30mm Fan Adapter",
+        "dir": "legacy_printers\/printer_mods\/daveidmx\/VORON2",
+        "md5": "2d45e2ddda1e56a9c1d20b9f777e3149",
+        "descr": "30mm Fan Adapter",
+        "tags": {
+            "v1_6": 1,
+            "v2_1": 1,
+            "v2_2": 1
+        }
+    },
+    {
+        "creator": "Dunar",
+        "title": "Panel Rest",
+        "dir": "legacy_printers\/printer_mods\/Dunar\/Panel_Rest",
+        "md5": "9279676cfd6d70a1878f6d9342a56fa6",
+        "descr": "External panel holder",
+        "tags": {
+            "v1_6": 2,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "etherwalker",
+        "title": "Pi Zero Camera Mount",
+        "dir": "legacy_printers\/printer_mods\/etherwalker\/Pi_Zero_Camera_Mount",
+        "md5": "1c7bee8b76bab7779cd12c0e503520c5",
+        "descr": "Pi Zero Camera Mount",
+        "tags": {
+            "v1_6": 1,
+            "v2_1": 1,
+            "v2_2": 1
+        }
+    },
+    {
+        "creator": "exquyre",
+        "title": "Anet 12864 Display",
+        "dir": "legacy_printers\/printer_mods\/exquyre\/Anet_12864_display",
+        "md5": "2131296faaa4f4bcc04cada581fab3c8",
+        "descr": "Case for Anet 12864 LCD display",
+        "tags": {
+            "v1_6": 2,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "exquyre",
+        "title": "LED Bar Mount",
+        "dir": "legacy_printers\/printer_mods\/exquyre\/LED_bar_mount",
+        "md5": "c30f0272d26262cfc30c8be98a3aeb1b",
+        "descr": "Mount for 12V LED bars to the top extrusions",
+        "tags": {
+            "v1_6": 1,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "exquyre",
+        "title": "Cable Cover Insert",
+        "dir": "legacy_printers\/printer_mods\/exquyre\/cable_cover",
+        "md5": "6e1d2b3684bb35e94c6e33b1fc56c945",
+        "descr": "Room for 3-4 20AWG wires",
+        "tags": {
+            "v1_6": 1,
+            "v2_1": 1,
+            "v2_2": 1
+        }
+    },
+    {
+        "creator": "exquyre",
+        "title": "Einsy + RAMPS Combo",
+        "dir": "legacy_printers\/printer_mods\/exquyre\/einsy+ramps",
+        "md5": "b821fe210dce02a2d5188583ce951fef",
+        "descr": "Mounting bracket for 1 Einsy and 1 RAMPs",
+        "tags": {
+            "v1_6": 2,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "FHeilmann",
+        "title": "Voron 2.1 5mm Parts",
+        "dir": "legacy_printers\/printer_mods\/FHeilmann\/VORON2.1_5mm_parts",
+        "md5": "6896b757d4963bdaa2dbaf06645d1857",
+        "descr": "Parts modified for extrusions with 5mm gap.",
+        "tags": {
+            "v1_6": 0,
+            "v2_1": 2,
+            "v2_2": 0
+        }
+    },
+    {
+        "creator": "Fulg",
+        "title": "PanelDue5 LCD Mount",
+        "dir": "legacy_printers\/printer_mods\/Fulg\/VORON2\/PanelDue5",
+        "md5": "53e29fd19a275582ce7f83fa10eb2782",
+        "descr": "Mount for the PanelDue5 LCD display",
+        "tags": {
+            "v1_6": 2,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "GSL12",
+        "title": "WAGO 221 Mounts",
+        "dir": "legacy_printers\/printer_mods\/GSL12\/wago_221_mount",
+        "md5": "2a9f201bdd50203377ca129cbeb3eab4",
+        "descr": "Wago 221 mounts for the electronics bay",
+        "tags": {
+            "v1_6": 2,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "Gamsche",
+        "title": "Keystone Skirt Panel",
+        "dir": "legacy_printers\/printer_mods\/Gamsche\/skirt_keystone",
+        "md5": "c1eadc33da1ffff9f7f6b29fb1d59784",
+        "descr": "25mm skirt panel with integrated keystone jack.  Use with 50mm smaller adjacent skirts for proper fit.",
+        "tags": {
+            "v1_6": 1,
+            "v2_1": 1,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "Glowtape",
+        "title": "MKS GenL 1.0 Mounting Bracket",
+        "dir": "legacy_printers\/printer_mods\/Glowtape",
+        "md5": "c8f6404ced68e2dc70357440f156b869",
+        "descr": "MKS GenL 1.0 Mounting Bracket",
+        "tags": {
+            "v1_6": 2,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "GustavTheMighty",
+        "title": "4.3 PanelDue Case",
+        "dir": "legacy_printers\/printer_mods\/GustavtheMighty\/4.3-Paneldue_Case",
+        "md5": "4304336fa51b5a33e63236b251cdf281",
+        "descr": "Case\/mount for the 4.3 PanelDue LCD Display",
+        "tags": {
+            "v1_6": 2,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "Iakabos",
+        "title": "Mini12864 Display Mount",
+        "dir": "legacy_printers\/printer_mods\/Iakabos\/Mini12864_display_mount",
+        "md5": "2f2c2fb825cbac1c1d32e768281c448b",
+        "descr": "Case and mounting arms for a Fysetc Mini12864 display",
+        "tags": {
+            "v1_6": 1,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "Hackdoggo",
+        "title": "BMGobius",
+        "dir": "legacy_printers\/printer_mods\/hackdoggo\/v2\/bmgobius",
+        "md5": "2d1967fc1cf230c572a6ea09571c09f4",
+        "descr": "Modification to MZBot's Mobius Extruder to use dual drive Bondtech drivegears",
+        "tags": {
+            "v1_6": 2,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "hiemmer",
+        "title": "Tool Holders",
+        "dir": "legacy_printers\/printer_mods\/hiemmer\/Tool_Holders",
+        "md5": "586d93dd968de3204a6bf1c52800b26d",
+        "descr": "Tool holder for calipers, screwdriver etc",
+        "tags": {
+            "v1_6": 1,
+            "v2_1": 1,
+            "v2_2": 1
+        }
+    },
+    {
+        "creator": "JaredC01",
+        "title": "Mini 12864 Voron Knob",
+        "dir": "legacy_printers\/printer_mods\/JaredC01\/Mini_12864_Voron_Knob",
+        "md5": "b78ecf118af81f4a4bea8cc683c21e50",
+        "descr": "Upgraded knob for Fystec Mini 12864 RGB LED Display",
+        "tags": {
+            "v1_6": 2,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "JaredC01",
+        "title": "Keystone Power Panel",
+        "dir": "legacy_printers\/printer_mods\/JaredC01\/Keystone_Power_Panel",
+        "md5": "fa2707d344221fd3bf88f59d65a6a874",
+        "descr": "Power Panel with 1 or 2 Keystone Jacks",
+        "tags": {
+            "v1_6": 0,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "JaredC01",
+        "title": "Mosfet Mounts",
+        "dir": "legacy_printers\/printer_mods\/JaredC01\/Mosfet_Mounts",
+        "md5": "02df729f6c4774eaf0b047b967fd4e33",
+        "descr": "Mosfet Mount for 4 or 6 Mosfets",
+        "tags": {
+            "v1_6": 2,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "Jasperkm",
+        "title": "5mm panel mounting",
+        "dir": "legacy_printers\/printer_mods\/Jasperkm\/5mm_panel_mounting",
+        "md5": "28a2c156ea21d94b546d110ecff53e34",
+        "descr": "Edited panel clips for 4mm panel + 1mm foam tape",
+        "tags": {
+            "v1_6": 0,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "Jasperkm",
+        "title": "Brush holder",
+        "dir": "legacy_printers\/printer_mods\/Jasperkm\/Brush_holder",
+        "md5": "a771ae2db94ef6212594cdaf5f3ef838",
+        "descr": "Brush holder next to printbed",
+        "tags": {
+            "v1_6": 0,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "Jasperkm",
+        "title": "Cable management",
+        "dir": "legacy_printers\/printer_mods\/Jasperkm\/Cable_management",
+        "md5": "2e3a41cc9bff0b2a6150d002a2077f3a",
+        "descr": "Cable trunking and 2020 slot cover",
+        "tags": {
+            "v1_6": 0,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "Jasperkm",
+        "title": "Exhaust fan guard",
+        "dir": "legacy_printers\/printer_mods\/Jasperkm\/Exhaust_fan_guard",
+        "md5": "522651520254a6aea251b7bdf54c08e5",
+        "descr": "VORON styled fan guard for exhaust fan 120mm",
+        "tags": {
+            "v1_6": 0,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "Jasperkm",
+        "title": "Fire alarm mount",
+        "dir": "legacy_printers\/printer_mods\/Jasperkm\/Fire_alarm_mount",
+        "md5": "4b2c49ad2654416e70d4d40012efd119",
+        "descr": "Mount for a small fire alarm on the back of the printer",
+        "tags": {
+            "v1_6": 2,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "Jasperkm",
+        "title": "LED strip holder",
+        "dir": "legacy_printers\/printer_mods\/Jasperkm\/LED_strip_holder",
+        "md5": "6163303893a8b616a449100036502aca",
+        "descr": "Mount for led strips at an angle at the top of the printer",
+        "tags": {
+            "v1_6": 2,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "Jasperkm",
+        "title": "Panel key wrench",
+        "dir": "legacy_printers\/printer_mods\/Jasperkm\/Panel_key_wrench",
+        "md5": "f211feed4374367666d54f5d85e8adfe",
+        "descr": "Wrench for panel keys for ease of turning",
+        "tags": {
+            "v1_6": 0,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "Jasperkm",
+        "title": "Simple tool holder",
+        "dir": "legacy_printers\/printer_mods\/Jasperkm\/Simple_tool_holder",
+        "md5": "745eebf143cd0798f34aa81251ab14ed",
+        "descr": "Holder for 3 small tools using magnets",
+        "tags": {
+            "v1_6": 2,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "Jasperkm",
+        "title": "Skirt mods",
+        "dir": "legacy_printers\/printer_mods\/Jasperkm\/Skirt_mods",
+        "md5": "580541febd4c1997c6b55514da76d18f",
+        "descr": "Some mods the skirts for fans and a clock",
+        "tags": {
+            "v1_6": 0,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "Jass_on",
+        "title": "Tempered glass clips\/handle",
+        "dir": "legacy_printers\/printer_mods\/Jass_on\/Voron_2.1.1_Tempered_Glass",
+        "md5": "4841a7cf7733f5cda0de06a418eef875",
+        "descr": "Panel clips and handles for using tempered glass side panels",
+        "tags": {
+            "v1_6": 0,
+            "v2_1": 2,
+            "v2_2": 1
+        }
+    },
+    {
+        "creator": "Jass_on",
+        "title": "Rear panel clips",
+        "dir": "legacy_printers\/printer_mods\/Jass_on",
+        "md5": "caef6a67b877deec5c48a57762a479be",
+        "descr": "Rear Panel Clips",
+        "tags": {
+            "v1_6": 0,
+            "v2_1": 2,
+            "v2_2": 1
+        }
+    },
+    {
+        "creator": "Jass_on",
+        "title": "SKR 1.3 Cooling bracket",
+        "dir": "legacy_printers\/printer_mods\/Jass_on",
+        "md5": "caef6a67b877deec5c48a57762a479be",
+        "descr": "SKR 1.3 mount with built in 40mm fan mount",
+        "tags": {
+            "v1_6": 2,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "JeJeff",
+        "title": "2020 Extrusion slot cover",
+        "dir": "legacy_printers\/printer_mods\/JeJeff\/VORON2.1\/2020_5mm_Slot_Cover",
+        "md5": "463992c78cecd0781acba0136aa72287",
+        "descr": "Slot covers for extrusions with 5mm slot width",
+        "tags": {
+            "v1_6": 2,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "JeJeff",
+        "title": "Cable Tie Mount",
+        "dir": "legacy_printers\/printer_mods\/JeJeff\/VORON2.1\/Cable_Tie_Mount",
+        "md5": "8d8e108c0a56ccf91ad705416bf5296c",
+        "descr": "Cable tie mounts for 4mm cable ties",
+        "tags": {
+            "v1_6": 2,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "JeJeff",
+        "title": "Main Plug Panel",
+        "dir": "legacy_printers\/printer_mods\/JeJeff\/VORON2.1\/Mains_Plug_Panel_with_RJ45_Panel_Mount",
+        "md5": "a209524d50857142e65f4b4e3b4f174a",
+        "descr": "Main Plug Panel modified to hold a RJ45 ethernet socket",
+        "tags": {
+            "v1_6": 2,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "Jink",
+        "title": "Coroplast mount",
+        "dir": "legacy_printers\/printer_mods\/Jink\/VORON_2.1\/Coroplast_Mount",
+        "md5": "970f418abeee635e71338ce46e6da26e",
+        "descr": "Mount \/ Bracket supporting the coroplast sheets",
+        "tags": {
+            "v1_6": 0,
+            "v2_1": 2,
+            "v2_2": 1
+        }
+    },
+    {
+        "creator": "Jink",
+        "title": "Filament runout sensor mount",
+        "dir": "legacy_printers\/printer_mods\/Jink\/VORON_2.1\/Filament_Runout_Sensor_Mount",
+        "md5": "1f45eecf9bae60a5cc8cac259dd4c0dc",
+        "descr": "Filament runout sensor mount",
+        "tags": {
+            "v1_6": 0,
+            "v2_1": 2,
+            "v2_2": 1
+        }
+    },
+    {
+        "creator": "Jink",
+        "title": "Left handed RAMPS mount",
+        "dir": "legacy_printers\/printer_mods\/Jink\/VORON_2.1\/Left_Handed_Ramps_Mount",
+        "md5": "6214417c99e27dbe5d6885b0c2424603",
+        "descr": "Mirrored RAMPS bracket",
+        "tags": {
+            "v1_6": 2,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "Jink",
+        "title": "Spool holder with scale",
+        "dir": "legacy_printers\/printer_mods\/Jink\/VORON_2.1\/Spool_Holder_With_Scale",
+        "md5": "3ecc21b849bc6079943a9d1185123bbb",
+        "descr": "Spool holder with scale",
+        "tags": {
+            "v1_6": 0,
+            "v2_1": 2,
+            "v2_2": 1
+        }
+    },
+    {
+        "creator": "Jink",
+        "title": "WAGO Mount",
+        "dir": "legacy_printers\/printer_mods\/Jink\/VORON_2.1\/WAGO_Mount",
+        "md5": "b601613903f68395f3fb3d6a1943ade7",
+        "descr": "Mount for 3x WAGO connectors",
+        "tags": {
+            "v1_6": 2,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "JustinVoelker",
+        "title": "Mains Plug Panel with RJ45",
+        "dir": "legacy_printers\/printer_mods\/JustinVoelker\/VORON2",
+        "md5": "8b0d7501abceee1d076d204132c9d314",
+        "descr": "Mains plug panel with ethernet cutout",
+        "tags": {
+            "v1_6": 2,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "K1JWG",
+        "title": "PanelDue 7i Custom Logo",
+        "dir": "legacy_printers\/printer_mods\/K1JWG\/PanelDue7iLogo",
+        "md5": "d67293970acca17c3456a36e662515a0",
+        "descr": "Custom Voron 2 logo for use as a PanelDue 7i startup splash screen",
+        "tags": {
+            "v1_6": 2,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "manfre",
+        "title": "Openbuild chain ends",
+        "dir": "legacy_printers\/printer_mods\/manfre\/cable_chains",
+        "md5": "ad0a07ff48119cb01329fd2aa04cc9ab",
+        "descr": "Cable chain ends to use off the shelf chains with Voron parts",
+        "tags": {
+            "v1_6": 0,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "masgar",
+        "title": "VoltAmpMeter panel insert",
+        "dir": "legacy_printers\/printer_mods\/masgar\/VoltAmpMeter_Panel_Insert",
+        "md5": "c3d9da3c6f149d732047583b95e6567c",
+        "descr": "Mounting panel for VoltAmpMeter",
+        "tags": {
+            "v1_6": 2,
+            "v2_1": 0,
+            "v2_2": 0
+        }
+    },
+    {
+        "creator": "masgar",
+        "title": "BTT SKR Mini v1.1 mounting frame",
+        "dir": "legacy_printers\/printer_mods\/masgar\/BTT_SKR_Mini_v1.1_mounting_frame",
+        "md5": "b29622c99fef30d82bc1dcb8f8db718e",
+        "descr": "Mounting frame for BigTreeTech SKR Mini v1.1",
+        "tags": {
+            "v1_6": 2,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "masgar",
+        "title": "2-in-1 hotend housing",
+        "dir": "legacy_printers\/printer_mods\/masgar\/2-in-1_hotend_housing",
+        "md5": "0999561033517733b2b8d904659f9884",
+        "descr": "Front\/Rear toolhead housing for XCR3D\/BTT\/BIQU 2-in-1 hotend",
+        "tags": {
+            "v1_6": 2,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "meteyou",
+        "title": "Gcode Buttons",
+        "dir": "legacy_printers\/printer_mods\/meteyou\/gcode_buttons",
+        "md5": "28bdee7cc357bdb61b2275a8b5d9b949",
+        "descr": "Buttons in the skirt to execute gcode",
+        "tags": {
+            "v1_6": 1,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "mildw4ve",
+        "title": "Beltchain Remake",
+        "dir": "legacy_printers\/printer_mods\/mildw4ve\/Beltchain_Remake",
+        "md5": "68423a837b528dc318e29197fc668b66",
+        "descr": "Beltchain Remake for Voron 2.2",
+        "tags": {
+            "v1_6": 0,
+            "v2_1": 0,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "mildw4ve",
+        "title": "IR Probe Mount",
+        "dir": "legacy_printers\/printer_mods\/mildw4ve\/IR_Probe_Mount_V2.2",
+        "md5": "2ab73902d38dc655b621a47c384181e6",
+        "descr": "DUET IR Probe Mount",
+        "tags": {
+            "v1_6": 0,
+            "v2_1": 0,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "Nashuar",
+        "title": "IKEA LEDBERG Spot Mount",
+        "dir": "legacy_printers\/printer_mods\/Nashuar\/LEDBERG_LED_Mount",
+        "md5": "1710c48afa1232ea0abb59015426cd65",
+        "descr": "LED Spot mount for IKEA LEDBERG",
+        "tags": {
+            "v1_6": 1,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "Nashuar",
+        "title": "WaveShare 7\" Screen Mount",
+        "dir": "legacy_printers\/printer_mods\/Nashuar\/7.0-WaveShare_Screen",
+        "md5": "015a165a5400e874357cff8f6f04a5ea",
+        "descr": "Display Case for 7\" Waveshare LCD",
+        "tags": {
+            "v1_6": 1,
+            "v2_1": 1,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "nemgrea",
+        "title": "Magnetic Split Front Door",
+        "dir": "legacy_printers\/printer_mods\/nemgrea\/magnetic_split_front_door",
+        "md5": "a83cbd99fca8fc79db1000f4eff53461",
+        "descr": "Hinges, handles and magnet mounts for creating a split front door panel",
+        "tags": {
+            "v1_6": 0,
+            "v2_1": 2,
+            "v2_2": 1
+        }
+    },
+    {
+        "creator": "OrkusMG",
+        "title": "Waveshare 5 Inch LCD Cover",
+        "dir": "legacy_printers\/printer_mods\/OrkusMG\/Waveshare5inchHDMILCDscreenCover",
+        "md5": "28bb458d4ff1cf548c819b401a73a761",
+        "descr": "Display Cover for the Waveshare 5 inch HDMI LCD screen",
+        "tags": {
+            "v1_6": 2,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "PhilLeMint",
+        "title": "c920 Mount",
+        "dir": "legacy_printers\/printer_mods\/PhilLeMint\/c920_Mount\/",
+        "md5": "55f12f911e1c5a860c6de2e690189496",
+        "descr": "c920 Camera Mount",
+        "tags": {
+            "v1_6": 1,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "PhilLeMint",
+        "title": "Panel Mounting",
+        "dir": "legacy_printers\/printer_mods\/PhilLeMint\/Panel_Mounting\/",
+        "md5": "01cc340205d3a24cf861b1062d7b2654",
+        "descr": "Panel Clips for 3\/32\" Foam Tape",
+        "tags": {
+            "v1_6": 1,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "PhilLeMint",
+        "title": "Dual LED Light Mount",
+        "dir": "legacy_printers\/printer_mods\/PhilLeMint\/Dual_LED_Light_Mount\/",
+        "md5": "fbdd4fd677602fb97de5c964460b8bec",
+        "descr": "Mounts for Dual LED Bar",
+        "tags": {
+            "v1_6": 1,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "PhilLeMint",
+        "title": "Velocity Stack",
+        "dir": "legacy_printers\/printer_mods\/PhilLeMint\/Velocity_Stack\/",
+        "md5": "3a5371d0089f7a4e8e952bf4c9f08b71",
+        "descr": "Velocity Stack Fan Cover",
+        "tags": {
+            "v1_6": 1,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "PhilLeMint",
+        "title": "Indicator Mount",
+        "dir": "legacy_printers\/printer_mods\/PhilLeMint\/Indicator_Mount\/",
+        "md5": "ed1412f175995a9a326c4816cca4ae9e",
+        "descr": "Mount for Indicator",
+        "tags": {
+            "v1_6": 1,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "pnokel",
+        "title": "Cable Zipper",
+        "dir": "legacy_printers\/printer_mods\/pnokel",
+        "md5": "843c502aa0bd47b08c0d939d12b208b9",
+        "descr": "Small mount to secure wires with zip ties",
+        "tags": {
+            "v1_6": 2,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "pnokel",
+        "title": "Coroplast holders",
+        "dir": "legacy_printers\/printer_mods\/pnokel",
+        "md5": "843c502aa0bd47b08c0d939d12b208b9",
+        "descr": "Different coroplast holders for added support",
+        "tags": {
+            "v1_6": 0,
+            "v2_1": 2,
+            "v2_2": 1
+        }
+    },
+    {
+        "creator": "pnokel",
+        "title": "Toothed Idler",
+        "dir": "legacy_printers\/printer_mods\/pnokel",
+        "md5": "843c502aa0bd47b08c0d939d12b208b9",
+        "descr": "14.5mm toothed idler",
+        "tags": {
+            "v1_6": 0,
+            "v2_1": 0,
+            "v2_2": 0
+        }
+    },
+    {
+        "creator": "przybybr",
+        "title": "V2.1 Omron Mount",
+        "dir": "legacy_printers\/printer_mods\/przybybr\/V2_1OmronMount\/",
+        "md5": "03a555764ef662c6cc29018d27953c4a",
+        "descr": "Mount for Omron probe in V2.1",
+        "tags": {
+            "v1_6": 1,
+            "v2_1": 2,
+            "v2_2": 0
+        }
+    },
+    {
+        "creator": "Railgunner",
+        "title": "Dual Direct Drive X Carriage",
+        "dir": "legacy_printers\/printer_mods\/Railgunner\/10mmBMGx2",
+        "md5": "7255a6772fd9f09956e8d791add40862",
+        "descr": "Dual direct drive using 2x Bondtech BMG",
+        "tags": {
+            "v1_6": 1,
+            "v2_1": 1,
+            "v2_2": 1
+        }
+    },
+    {
+        "creator": "Randommen96",
+        "title": "LCD bracket extended",
+        "dir": "legacy_printers\/printer_mods\/randommen96\/LCD_bracket_extended\/",
+        "md5": "2887c8b24c21e605052349c0ba230745",
+        "descr": "LCD bracket extended for 6mm panels",
+        "tags": {
+            "v1_6": 1,
+            "v2_1": 1,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "Randommen96",
+        "title": "Led strip mount DIODER",
+        "dir": "legacy_printers\/printer_mods\/randommen96\/Led_strip_mount_DIODER\/",
+        "md5": "fef52ea5cf8ac55591bea0d1ed8bef8f",
+        "descr": "Led strip mount for Ikea Dioder",
+        "tags": {
+            "v1_6": 1,
+            "v2_1": 1,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "Randommen96",
+        "title": "PSU bracket",
+        "dir": "legacy_printers\/printer_mods\/randommen96\/PSU_bracket\/",
+        "md5": "1ad697a9c55d2849497452f1a955efc5",
+        "descr": "PSU AIO bracket for 5v, 12v and 24v",
+        "tags": {
+            "v1_6": 1,
+            "v2_1": 1,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "Randommen96",
+        "title": "Raspi cam mount",
+        "dir": "legacy_printers\/printer_mods\/randommen96\/Raspi_cam_mount\/",
+        "md5": "ce039e6b9d0a41edb14e1ddb5e3b1724",
+        "descr": "Cam mount for alie raspi cams",
+        "tags": {
+            "v1_6": 1,
+            "v2_1": 1,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "schlank",
+        "title": "Turbocharger",
+        "dir": "legacy_printers\/printer_mods\/schlank\/turbocharger",
+        "md5": "edd2fe6bbf3e4f21991da4b7fee5ecc1",
+        "descr": "Alternative fumes extraction solution",
+        "tags": {
+            "v1_6": 0,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "schlank",
+        "title": "Minima",
+        "dir": "legacy_printers\/printer_mods\/schlank\/minima",
+        "md5": "b0e9a08be37f66ea88df71472f6ba42e",
+        "descr": "Minimalistic Fysetc Mini12864 display mount",
+        "tags": {
+            "v1_6": 0,
+            "v2_1": 1,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "Seamen",
+        "title": "RAMPS Extender Holder",
+        "dir": "legacy_printers\/printer_mods\/Seamen\/RAMPS-Extender_holder",
+        "md5": "846c22df93502f625faf50712692f331",
+        "descr": "Mount for RAMPS board with the stepper extender",
+        "tags": {
+            "v1_6": 2,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "Slidr",
+        "title": "Panzer Chain",
+        "dir": "legacy_printers\/printer_mods\/Slidr\/PanzerChain",
+        "md5": "59d1e898d69c96dc19609728c1532cf1",
+        "descr": "Alternative energie chain",
+        "tags": {
+            "v1_6": 1,
+            "v2_1": 1,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "Sparreau",
+        "title": "5V Power Supply Mount",
+        "dir": "legacy_printers\/printer_mods\/Sparreau",
+        "md5": "1066a386d4c87a8b38c26e89e59f97bb",
+        "descr": "5V Power Supply Mount",
+        "tags": {
+            "v1_6": 2,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "Sparreau",
+        "title": "FSR Circuit Mount",
+        "dir": "legacy_printers\/printer_mods\/Sparreau",
+        "md5": "1066a386d4c87a8b38c26e89e59f97bb",
+        "descr": "Bracket for mounting the FSR PCB.",
+        "tags": {
+            "v1_6": 0,
+            "v2_1": 2,
+            "v2_2": 0
+        }
+    },
+    {
+        "creator": "Sparreau",
+        "title": "Z Rail Stop",
+        "dir": "legacy_printers\/printer_mods\/Sparreau",
+        "md5": "1066a386d4c87a8b38c26e89e59f97bb",
+        "descr": "Z Rail Stop",
+        "tags": {
+            "v1_6": 0,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "Sparreau",
+        "title": "Bed Extrusion Spacer",
+        "dir": "legacy_printers\/printer_mods\/Sparreau",
+        "md5": "1066a386d4c87a8b38c26e89e59f97bb",
+        "descr": "Bed Extrusion Spacer",
+        "tags": {
+            "v1_6": 0,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "Sparreau",
+        "title": "Dial Indicator Fan Mount",
+        "dir": "legacy_printers\/printer_mods\/Sparreau",
+        "md5": "1066a386d4c87a8b38c26e89e59f97bb",
+        "descr": "Dial Indicator Fan Mount",
+        "tags": {
+            "v1_6": 1,
+            "v2_1": 1,
+            "v2_2": 1
+        }
+    },
+    {
+        "creator": "Sparreau",
+        "title": "Mains Plug Panel Parametric",
+        "dir": "legacy_printers\/printer_mods\/Sparreau",
+        "md5": "1066a386d4c87a8b38c26e89e59f97bb",
+        "descr": "Scalable mains plug panel with small modifications",
+        "tags": {
+            "v1_6": 2,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "Sparreau",
+        "title": "Z Idler Frame Extra Tab",
+        "dir": "legacy_printers\/printer_mods\/Sparreau",
+        "md5": "1066a386d4c87a8b38c26e89e59f97bb",
+        "descr": "An extra tab added to the Z idler to prevent sagging \/ rotation",
+        "tags": {
+            "v1_6": 0,
+            "v2_1": 2,
+            "v2_2": 0
+        }
+    },
+    {
+        "creator": "sporadic",
+        "title": "10x15 Chain Z Mounts",
+        "dir": "legacy_printers\/printer_mods\/sporadic\/10x15_Chain_Z_Mounts",
+        "md5": "85255dff59420c7b726cbc71b0ddd043",
+        "descr": "End Z mounts for 10x15 Befenybay Drag Chain",
+        "tags": {
+            "v1_6": 1,
+            "v2_1": 2,
+            "v2_2": 1
+        }
+    },
+    {
+        "creator": "sporadic",
+        "title": "30A Relay Mount",
+        "dir": "legacy_printers\/printer_mods\/sporadic\/30A_Relay_Mount",
+        "md5": "4336523dcde4a6df87bb207655031227",
+        "descr": "Mount for a 30A relay module available on Amazon",
+        "tags": {
+            "v1_6": 1,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "sporadic",
+        "title": "Dual RS-25 Mount",
+        "dir": "legacy_printers\/printer_mods\/sporadic\/Dual_RS-25_Mount",
+        "md5": "b19738171242a0f5bf07b67c4d9c670f",
+        "descr": "Dual mount for side by side RS-25 supplies",
+        "tags": {
+            "v1_6": 1,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "sporadic",
+        "title": "Dual SKR 1.3 Mounts",
+        "dir": "legacy_printers\/printer_mods\/sporadic\/Dual_SKR_1.3_Mount",
+        "md5": "b278b390a285d687f9f33730e4183143",
+        "descr": "Dual mounts for side by side SKR 1.3 controllers with fan and fanless options",
+        "tags": {
+            "v1_6": 1,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "sporadic",
+        "title": "Wago 221-415 Mount",
+        "dir": "legacy_printers\/printer_mods\/sporadic\/Wago_221_Mounts",
+        "md5": "c5221672021377cb02a97d7c6b86a749",
+        "descr": "Mount for a single Wago 221-415",
+        "tags": {
+            "v1_6": 1,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "Stephan",
+        "title": "M12 Probeholder",
+        "dir": "legacy_printers\/printer_mods\/Stephan\/M12_probeholder",
+        "md5": "e98f864b94b8766dfbfbed590b38f927",
+        "descr": "Drop in replacement of the stock probe to a M12",
+        "tags": {
+            "v1_6": 1,
+            "v2_1": 2,
+            "v2_2": 1
+        }
+    },
+    {
+        "creator": "Stephan",
+        "title": "BlTouch Mount",
+        "dir": "legacy_printers\/printer_mods\/Stephan\/bltouch_mount",
+        "md5": "b26a08610d12943085ff21f7afe0a799",
+        "descr": "Drop in replacement of the stock probe to a BLTouch",
+        "tags": {
+            "v1_6": 1,
+            "v2_1": 2,
+            "v2_2": 1
+        }
+    },
+    {
+        "creator": "steve450",
+        "title": "Corner Brackets",
+        "dir": "legacy_printers\/printer_mods\/steve450\/Voron2.1",
+        "md5": "c2221f2b01bc9d8d840972840388762d",
+        "descr": "Corner brackets preventing rotation of the extrusions, and stiffening the joints.  Also covers the Z-belt hole for improved aesthetics",
+        "tags": {
+            "v1_6": 1,
+            "v2_1": 2,
+            "v2_2": 1
+        }
+    },
+    {
+        "creator": "synfinatic",
+        "title": "Duet Fan Mount",
+        "dir": "legacy_printers\/printer_mods\/synfinatic\/Duet-Fan-Mount",
+        "md5": "eaee44fe1983f1531ff58b645f440d8d",
+        "descr": "Duet\/Duex fan mount with air vents directly above the steppers to increase airflow",
+        "tags": {
+            "v1_6": 2,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "synfinatic",
+        "title": "E-Stop Switch",
+        "dir": "legacy_printers\/printer_mods\/synfinatic\/E-Stop-Switch",
+        "md5": "9da0827c366af6c398da4f85cc675d6c",
+        "descr": "Mount for emergency button attached to the top of the printer",
+        "tags": {
+            "v1_6": 0,
+            "v2_1": 2,
+            "v2_2": 1
+        }
+    },
+    {
+        "creator": "synfinatic",
+        "title": "Filament DryBox",
+        "dir": "legacy_printers\/printer_mods\/synfinatic\/Filament-DryBox",
+        "md5": "308c12f07ac97a621e01ff927b68e244",
+        "descr": "Mount for filament drybox attached to the side of the printer",
+        "tags": {
+            "v1_6": 0,
+            "v2_1": 2,
+            "v2_2": 1
+        }
+    },
+    {
+        "creator": "synfinatic",
+        "title": "LED Mount",
+        "dir": "legacy_printers\/printer_mods\/synfinatic\/LED-Mount",
+        "md5": "8d9f2bd7b572367e827a6b74b9510c34",
+        "descr": "Mount for LED lightbars",
+        "tags": {
+            "v1_6": 1,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "synfinatic",
+        "title": "PS Extra Bracket",
+        "dir": "legacy_printers\/printer_mods\/synfinatic\/PS-Extra-Bracket",
+        "md5": "ab15957f61233454e5a2210361554928",
+        "descr": "Extra bracket to keep the power supply in place",
+        "tags": {
+            "v1_6": 1,
+            "v2_1": 1,
+            "v2_2": 1
+        }
+    },
+    {
+        "creator": "synfinatic",
+        "title": "RJ45 Mount",
+        "dir": "legacy_printers\/printer_mods\/synfinatic\/RJ45-Mount",
+        "md5": "468dc945ed61f5e4def1f0cae4c6ec74",
+        "descr": "Mount for an ethernet coupler to extend \/ move the ethernet plug somewhere more convenient",
+        "tags": {
+            "v1_6": 1,
+            "v2_1": 1,
+            "v2_2": 1
+        }
+    },
+    {
+        "creator": "Trippinonaduck",
+        "title": "Switch Holder",
+        "dir": "legacy_printers\/printer_mods\/Trippinonaduck\/SwitchHolder",
+        "md5": "632dfa2b07d488c808b079dba48b92df",
+        "descr": "Holder for Anit-Vandal Switches mounted in skirt holes",
+        "tags": {
+            "v1_6": 0,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "Trippinonaduck",
+        "title": "LRS-75-5",
+        "dir": "legacy_printers\/printer_mods\/Trippinonaduck\/LRS_75_5",
+        "md5": "6d8d451aa845760ac1ff0657fa88406e",
+        "descr": "Mount for LRS-75-5 Power Supply",
+        "tags": {
+            "v1_6": 2,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "warriorofwire",
+        "title": "Openbuilds Drag Chain 2.1",
+        "dir": "legacy_printers\/printer_mods\/warriorofwire\/openbuilds_drag_chain_2.1",
+        "md5": "3cc002a498de8c47669d5ecdbf7eebb1",
+        "descr": "Off-the-shelf, cheap, snap opening drag chain for gantry wiring and protecting wires down to the deck",
+        "tags": {
+            "v1_6": 0,
+            "v2_1": 2,
+            "v2_2": 0
+        }
+    },
+    {
+        "creator": "warriorofwire",
+        "title": "Openbuilds Drag Chain 2.2",
+        "dir": "legacy_printers\/printer_mods\/warriorofwire\/openbuilds_drag_chain_2.2",
+        "md5": "153058ee2c934fcd2b446929278fff08",
+        "descr": "Off-the-shelf, cheap, snap opening drag chain for gantry wiring and protecting wires down to the deck",
+        "tags": {
+            "v1_6": 0,
+            "v2_1": 0,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "warriorofwire",
+        "title": "Direct Drive BMG-m mount",
+        "dir": "legacy_printers\/printer_mods\/warriorofwire\/bmg_direct_drive",
+        "md5": "a1aa0efac9545945bd35314ac2550348",
+        "descr": "Open toolhead mounting plans for Bondtech BMG-m and Mosquito direct drive combo",
+        "tags": {
+            "v1_6": 1,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "wile.e.coyote",
+        "title": "Coroplast Support",
+        "dir": "legacy_printers\/printer_mods\/wile.e.coyote",
+        "md5": "6150271279eb8c6cab4107b33bce3c5a",
+        "descr": "Support for the coroplast to prevent sagging",
+        "tags": {
+            "v1_6": 0,
+            "v2_1": 2,
+            "v2_2": 1
+        }
+    },
+    {
+        "creator": "wile.e.coyote",
+        "title": "Dual Buck Bracket",
+        "dir": "legacy_printers\/printer_mods\/wile.e.coyote",
+        "md5": "6150271279eb8c6cab4107b33bce3c5a",
+        "descr": "Mounting bracket for 2 buck converters",
+        "tags": {
+            "v1_6": 2,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "wile.e.coyote",
+        "title": "Nozzle Scrubber Mount",
+        "dir": "legacy_printers\/printer_mods\/wile.e.coyote",
+        "md5": "6150271279eb8c6cab4107b33bce3c5a",
+        "descr": "Mount for brass brush. Used for cleaning nozzle before printing",
+        "tags": {
+            "v1_6": 0,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "wile.e.coyote",
+        "title": "Wago Mounts",
+        "dir": "legacy_printers\/printer_mods\/wile.e.coyote",
+        "md5": "6150271279eb8c6cab4107b33bce3c5a",
+        "descr": "Different mounts for Wago connectors",
+        "tags": {
+            "v1_6": 2,
+            "v2_1": 2,
+            "v2_2": 2
+        }
+    },
+    {
+        "creator": "Xile",
+        "title": "AfterBurner Umbilical",
+        "dir": "legacy_printers\/printer_mods\/XIle",
+        "md5": "b6a26a1e40dd8db9475bc2aeefee3952",
+        "descr": "Supports a umbilical setup, on AB, taking the strain off connectors",
+        "tags": {
+            "v1_6": 1,
+            "v2_1": 1,
+            "v2_2": 2
+        }
+    }
+]
