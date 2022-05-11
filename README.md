@@ -1,5 +1,5 @@
-# voronmods
-Find mods for your Voron 3D printer.
+# Voron Mods
+*Find mods for your Voron 3D printer.*
 
 https://jesterjunk.github.io/voronmods/
 
